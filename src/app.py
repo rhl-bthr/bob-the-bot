@@ -1,17 +1,20 @@
-""" Main program that handles requests to and from facebook API and heroku server. """
+# Handle requests to and from facebook API and heroku server
 
 import os
 import json
 import requests
-import re
 from flask import Flask, request
-
-from query_sort import *
-from spell_correct import correct
+from query_sort import clean_text, sort_query
 
 app = Flask(__name__)
 
-semantic_json = json.load(open('db/semantic_words.json'))
+POST_PARAMS = {
+    "access_token": os.environ["PAGE_ACCESS_TOKEN"]
+}
+POST_HEADERS = {
+    "Content-Type": "application/json"
+}
+
 
 @app.route('/', methods=['GET'])
 def verify():
@@ -34,54 +37,32 @@ def webhook():
         for entry in data["entry"]:
             for msg_event in entry["messaging"]:
                 sender_id = msg_event["sender"]["id"]
+
                 if isinstance(msg_event, list):
                     msg_event = msg_event[0]
                 if "postback" in msg_event:
-                    msg_text = msg_event["postback"]["payload"].lower(
-                    )
+                    msg_text = msg_event["postback"]["payload"]
                 elif "text" in msg_event["message"]:
-                    msg_text = msg_event["message"]["text"].lower(
-                    )
+                    msg_text = msg_event["message"]["text"]
                 else:
                     return "ok", 200
-                msg_text = msg_text.replace("'s", '')
-                msg_text = re.sub(':.', ' ', msg_text)
-                msg_text = re.sub('\W', ' ', msg_text).strip()
-                if msg_text:
-                    message_pack = None
-                    if msg_text in semantic_json['neutral']:
-                        continue
-                    if msg_text in semantic_json['happy']:
-                        message_pack = getText("Happy to help :D")
+                msg_text = clean_text(msg_text)
 
-                    if not message_pack:
-                        message_list = msg_text.split(' ')
-                        correct_msg = correct(message_list)
-                        message_list = map_text(correct_msg)
-                        name = getName(sender_id)
-                        message_pack = sort(message_list, name)
-                    data = unpack(message_pack, sender_id)
-                    send_message(data)
+                send_packets = sort_query(msg_text, sender_id)
+                send_message(send_packets)
 
     return "ok", 200
 
 
-def send_message(datas):
-    params = {
-        "access_token": os.environ["PAGE_ACCESS_TOKEN"]
-    }
-    headers = {
-        "Content-Type": "application/json"
-    }
-
-    for data in datas:
-        data = json.dumps(data)
-        print('d:', data)
-        r = requests.post(
-            "https://graph.facebook.com/v2.6/me/messages",
-            params=params,
-            headers=headers,
-            data=data)
+def send_message(send_packets):
+    if send_packets:
+        for packet in send_packets:
+            json_packet = json.dumps(packet)
+            requests.post(
+                "https://graph.facebook.com/v2.6/me/messages",
+                params=POST_PARAMS,
+                headers=POST_HEADERS,
+                data=json_packet)
 
 if __name__ == '__main__':
     app.run(debug=True)

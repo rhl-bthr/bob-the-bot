@@ -1,0 +1,182 @@
+{
+    "sorry": [
+        [
+            "Sorry, Dunno what you asked for :(",
+            "Typing help might help"
+        ],
+        [
+            "Sorry, Dunno what you asked for :(",
+            "Need help? type help"
+        ],
+        [
+            "Sorry, I Didn't get you.",
+            "Typing help might help"
+        ],
+        [
+            "Sorry, I Didn't get you.",
+            "Need help? type help"
+        ],
+        [
+            "Sorry, I ain't that smart",
+            "Typing help might help"
+        ],
+        [
+            "Sorry, I ain't that smart",
+            "Need help? type help"
+        ],
+        [
+            "Sorry, I have failed you :(",
+            "Typing help might help"
+        ],
+        [
+            "Sorry, I have failed you :(",
+            "Need help? type help"
+        ],
+        [
+            "Umm, Dunno what you asked for :(",
+            "Typing help might help"
+        ],
+        [
+            "Umm, Dunno what you asked for :(",
+            "Need help? type help"
+        ],
+        [
+            "Umm, I Didn't get you.",
+            "Typing help might help"
+        ],
+        [
+            "Umm, I Didn't get you.",
+            "Need help? type help"
+        ],
+        [
+            "Umm, I ain't that smart",
+            "Typing help might help"
+        ],
+        [
+            "Umm, I ain't that smart",
+            "Need help? type help"
+        ],
+        [
+            "Umm, I have failed you :(",
+            "Typing help might help"
+        ],
+        [
+            "Umm, I have failed you :(",
+            "Need help? type help"
+        ],
+        [
+            "Err, Dunno what you asked for :(",
+            "Typing help might help"
+        ],
+        [
+            "Err, Dunno what you asked for :(",
+            "Need help? type help"
+        ],
+        [
+            "Err, I Didn't get you.",
+            "Typing help might help"
+        ],
+        [
+            "Err, I Didn't get you.",
+            "Need help? type help"
+        ],
+        [
+            "Err, I ain't that smart",
+            "Typing help might help"
+        ],
+        [
+            "Err, I ain't that smart",
+            "Need help? type help"
+        ],
+        [
+            "Err, I have failed you :(",
+            "Typing help might help"
+        ],
+        [
+            "Err, I have failed you :(",
+            "Need help? type help"
+        ],
+        [
+            "Whoops, Dunno what you asked for :(",
+            "Typing help might help"
+        ],
+        [
+            "Whoops, Dunno what you asked for :(",
+            "Need help? type help"
+        ],
+        [
+            "Whoops, I Didn't get you.",
+            "Typing help might help"
+        ],
+        [
+            "Whoops, I Didn't get you.",
+            "Need help? type help"
+        ],
+        [
+            "Whoops, I ain't that smart",
+            "Typing help might help"
+        ],
+        [
+            "Whoops, I ain't that smart",
+            "Need help? type help"
+        ],
+        [
+            "Whoops, I have failed you :(",
+            "Typing help might help"
+        ],
+        [
+            "Whoops, I have failed you :(",
+            "Need help? type help"
+        ]
+    ],
+    "hello": [
+        [
+            "Hey, <USERNAME>\nI'm BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Hey, <USERNAME>\nIt's me, BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Hey, <USERNAME>\nMy name is BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Hi, <USERNAME>\nI'm BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Hi, <USERNAME>\nIt's me, BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Hi, <USERNAME>\nMy name is BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Whassup <USERNAME>\nI'm BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Whassup <USERNAME>\nIt's me, BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Whassup <USERNAME>\nMy name is BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Yo <USERNAME>\nI'm BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Yo <USERNAME>\nIt's me, BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Yo <USERNAME>\nMy name is BOB! :D",
+            "Type 'help' to see the query guide."
+        ]
+    ]
+}
