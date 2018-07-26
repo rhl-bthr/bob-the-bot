@@ -1,0 +1,28 @@
+{
+    "breakfast": [
+        "NO EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "ONION UTTAPAM",
+        "COCONUT CHUTNEY",
+        "SAMBHAR",
+        "BANANA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "BLACK CHANA M/S",
+        "VEG KOLHAPURI",
+        "CHAPATI",
+        "PLAIN RICE",
+        "UDUPI SAMBAR"
+    ],
+    "dinner": [
+        "ONION +LEMON",
+        "CHHOLE AMRITSARI",
+        "DAL FRY",
+        "BHATUREY/CHAPATI",
+        "PLAIN RICE",
+        "VEG MANCHOW SOUP"
+    ]
+}

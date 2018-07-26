@@ -1,0 +1,31 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "MIX VEG PARANTHA",
+        "GREEN CHUTNEY",
+        "ORANGE",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "TANDOORI SALAD",
+        "SOOKHA KALA CHANA",
+        "DUM ALOO",
+        "DAL KOHLAPURI",
+        "CHAPATI",
+        "JEERA RICE",
+        "KERALA SAMBAR",
+        "DOUBLE KA MEETHA"
+    ],
+    "dinner": [
+        "KIM CHI SALAD",
+        "CHILLI POTATO",
+        "DICE SCZ SAUCE",
+        "VEG FIRED RICE",
+        "CHAPATI",
+        "PLAIN RICE",
+        "UDUPI RASAM"
+    ]
+}

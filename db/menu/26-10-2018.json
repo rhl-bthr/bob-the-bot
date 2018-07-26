@@ -1,0 +1,26 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "MYSORE BONDA",
+        "GINGER CHUTNEY",
+        "PAPAYA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "FINGER SALAD",
+        "METHI MUTTER MALAI",
+        "ARHAR DAL LASOONI",
+        "CHAPATI",
+        "PLAIN RICE",
+        "SWEET LASSI"
+    ],
+    "dinner": [
+        "BESAN CAPSICUM",
+        "DAL TADKA",
+        "CHAPATI",
+        "TOMATO SOUP"
+    ]
+}

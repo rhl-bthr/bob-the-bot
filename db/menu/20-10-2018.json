@@ -1,0 +1,30 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "SEMIYA UPMA",
+        "PAPAYA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "MIX PAKODA",
+        "GREEN CHETNEY",
+        "BLACK CHANNA ALOO",
+        "KATHIRIKAI SAMBHAR",
+        "M/S KULCHA",
+        "PLAIN RICE",
+        "CURD+BUTTER",
+        "MINT COOLER"
+    ],
+    "dinner": [
+        "GREEN SALAD",
+        "MULI KI  SABZI",
+        "MIX KATHOL",
+        "ARHAR DAL",
+        "CHAPATI",
+        "PLAIN RICE",
+        "SUJI PINEAPPLE HALWA"
+    ]
+}

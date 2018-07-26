@@ -1,0 +1,30 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "VEG POHA",
+        "SEV .",
+        "LEMON+ONION",
+        "WATERMELON",
+        "TEA  +COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "GREEN CHUTNEY",
+        "MIX VEG PAKORA",
+        "GREEN DRY MUTTER",
+        "CURD / BUTTER",
+        "M/S KULCHA",
+        "VEG PULAV",
+        "Khus Sherbet"
+    ],
+    "dinner": [
+        "BHEEL POORI",
+        "PUNBAJI RAJMA",
+        "ARHAR  DAL  FRY",
+        "CHAPATI",
+        "ONION RICE",
+        "ZEERA RASAM"
+    ]
+}

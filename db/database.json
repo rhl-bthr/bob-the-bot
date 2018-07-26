@@ -1,0 +1,1361 @@
+{
+    "kamals": {
+        "number": [
+            {
+                "message": {
+                    "text": "Kamals Restaurant:\n9460735551"
+                }
+            }
+        ]
+    },
+    "handout": [
+        {
+            "message": {
+                "text": "Handouts:\nhttps://172.18.6.180/ID/Handouts.do"
+            }
+        }
+    ],
+    "chief": [
+        {
+            "message": {
+                "text": "CW Shibasish C:\n9694096457"
+            }
+        }
+    ],
+    "timetable": [
+        {
+            "message": {
+                "attachment": {
+                    "type": "file",
+                    "payload": {
+                        "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/TIMETABLE.pdf",
+                        "is_reusable": true
+                    }
+                }
+            }
+        }
+    ],
+    "nlforman": {
+        "number": [
+            {
+                "message": {
+                    "text": "NL Forman:\n9784288555"
+                }
+            }
+        ]
+    },
+    "secretary": [
+        {
+            "message": {
+                "text": "Shivam Jindal:\n9717024281"
+            }
+        }
+    ],
+    "hotels": [
+        {
+            "message": {
+                "attachment": {
+                    "type": "template",
+                    "payload": {
+                        "template_type": "button",
+                        "buttons": [
+                            {
+                                "type": "postback",
+                                "payload": "sharmas",
+                                "title": "Sharmas"
+                            },
+                            {
+                                "type": "postback",
+                                "payload": "kamals",
+                                "title": "Kamals"
+                            },
+                            {
+                                "type": "postback",
+                                "payload": "anc",
+                                "title": "ANC"
+                            }
+                        ],
+                        "text": "Here's are some things to choose from:"
+                    }
+                }
+            }
+        },
+        {
+            "message": {
+                "attachment": {
+                    "type": "template",
+                    "payload": {
+                        "template_type": "button",
+                        "buttons": [
+                            {
+                                "type": "postback",
+                                "payload": "pizzeria",
+                                "title": "LaPizzeria"
+                            },
+                            {
+                                "type": "postback",
+                                "payload": "nlforman",
+                                "title": "NL Forman"
+                            },
+                            {
+                                "type": "postback",
+                                "payload": "foodking",
+                                "title": "Foodking"
+                            }
+                        ],
+                        "text": "Here's are some things to choose from:"
+                    }
+                }
+            }
+        },
+        {
+            "message": {
+                "attachment": {
+                    "type": "template",
+                    "payload": {
+                        "template_type": "button",
+                        "buttons": [
+                            {
+                                "type": "postback",
+                                "payload": "nobles",
+                                "title": "Nobles"
+                            },
+                            {
+                                "type": "postback",
+                                "payload": "twelve",
+                                "title": "Twelve Tables"
+                            },
+                            {
+                                "type": "postback",
+                                "payload": "sunshine",
+                                "title": "Sunshine"
+                            }
+                        ],
+                        "text": "Here's are some things to choose from:"
+                    }
+                }
+            }
+        },
+        {
+            "message": {
+                "attachment": {
+                    "type": "template",
+                    "payload": {
+                        "template_type": "button",
+                        "buttons": [
+                            {
+                                "type": "postback",
+                                "payload": "skylabs",
+                                "title": "Skylabs"
+                            },
+                            {
+                                "type": "postback",
+                                "payload": "sandpiper",
+                                "title": "Sandpiper"
+                            },
+                            {
+                                "type": "postback",
+                                "payload": "macncheese",
+                                "title": "MacNCheese"
+                            }
+                        ],
+                        "text": "Here's are some things to choose from:"
+                    }
+                }
+            }
+        }
+    ],
+    "budh": {
+        "warden": [
+            {
+                "message": {
+                    "text": "BUDH Warden:\n9694096472"
+                }
+            }
+        ],
+        "chowki": [
+            {
+                "message": {
+                    "text": "BUDH Chowki:\n9929110686"
+                }
+            }
+        ],
+        "supri": [
+            {
+                "message": {
+                    "text": "BUDH Supri:\n9785644053"
+                }
+            }
+        ]
+    },
+    "pathak": [
+        {
+            "message": {
+                "text": "Pathak Travels:\n9829612176"
+            }
+        }
+    ],
+    "laptop": [
+        {
+            "message": {
+                "text": "Laptop Repair, Akshay:\n7055504472"
+            }
+        }
+    ],
+    "laundromat": [
+        {
+            "message": {
+                "text": "Laundromat Timings:\nOpen Everyday\n10 AM - 7 PM"
+            }
+        }
+    ],
+    "akshay": {
+        "timings": [
+            {
+                "message": {
+                    "text": "Akshay:\nWeekdays:\n10am - 1:30pm, 4:30pm - 9pm\nWeekends:\n10am - 2pm, 4pm - 9pm\nMonday Closed"
+                }
+            }
+        ]
+    },
+    "amit": [
+        {
+            "message": {
+                "text": "Amit Travels:\n9462239023"
+            }
+        }
+    ],
+    "bus": {
+        "delhi": [
+            {
+                "message": {
+                    "attachment": {
+                        "type": "image",
+                        "payload": {
+                            "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/delhibus.jpg",
+                            "is_reusable": true
+                        }
+                    }
+                }
+            }
+        ],
+        "jaipur": [
+            {
+                "message": {
+                    "attachment": {
+                        "type": "template",
+                        "payload": {
+                            "template_type": "button",
+                            "buttons": {
+                                "type": "web_url",
+                                "url": "https://rsrtconline.rajasthan.gov.in/busenquiry",
+                                "title": "RSRTC Bus Enquiry"
+                            },
+                            "text": "Here's the link:"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    "creator": [
+        {
+            "message": {
+                "text": "BoB ke builders:\nRahul Bothra\nSankalp Sangle\nManan Soni\nChinmay Hebbar"
+            }
+        }
+    ],
+    "lunch": "lunch",
+    "pizzeria": {
+        "menu": [
+            {
+                "message": {
+                    "attachment": {
+                        "type": "image",
+                        "payload": {
+                            "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/pizzeria2.jpg",
+                            "is_reusable": true
+                        }
+                    }
+                }
+            },
+            {
+                "message": {
+                    "attachment": {
+                        "type": "image",
+                        "payload": {
+                            "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/pizzeria3.jpg",
+                            "is_reusable": true
+                        }
+                    }
+                }
+            },
+            {
+                "message": {
+                    "attachment": {
+                        "type": "image",
+                        "payload": {
+                            "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/pizzeria4.jpg",
+                            "is_reusable": true
+                        }
+                    }
+                }
+            },
+            {
+                "message": {
+                    "attachment": {
+                        "type": "image",
+                        "payload": {
+                            "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/pizzeria5.jpg",
+                            "is_reusable": true
+                        }
+                    }
+                }
+            },
+            {
+                "message": {
+                    "attachment": {
+                        "type": "image",
+                        "payload": {
+                            "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/pizzeria6.jpg",
+                            "is_reusable": true
+                        }
+                    }
+                }
+            },
+            {
+                "message": {
+                    "attachment": {
+                        "type": "image",
+                        "payload": {
+                            "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/pizzeria7.jpg",
+                            "is_reusable": true
+                        }
+                    }
+                }
+            },
+            {
+                "message": {
+                    "attachment": {
+                        "type": "image",
+                        "payload": {
+                            "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/pizzeria8.jpg",
+                            "is_reusable": true
+                        }
+                    }
+                }
+            },
+            {
+                "message": {
+                    "attachment": {
+                        "type": "image",
+                        "payload": {
+                            "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/pizzeria9.jpg",
+                            "is_reusable": true
+                        }
+                    }
+                }
+            }
+        ],
+        "number": [
+            {
+                "message": {
+                    "text": "Pizzeria:\n9660432653"
+                }
+            }
+        ],
+        "timings": [
+            {
+                "message": {
+                    "text": "Pizzeria:\n10 AM - 11 PM"
+                }
+            }
+        ],
+        "address": [
+            {
+                "message": {
+                    "text": "Pizzeria:\nVatika Restaurant, Ganesh Colony"
+                }
+            }
+        ]
+    },
+    "bulletin": [
+        {
+            "message": {
+                "attachment": {
+                    "type": "template",
+                    "payload": {
+                        "template_type": "button",
+                        "buttons": {
+                            "type": "web_url",
+                            "url": "http://arcd.bits-pilani.ac.in/imp_documents/Bulletin_2017-18.pdf",
+                            "title": "Bulletin"
+                        },
+                        "text": "Here's the link:"
+                    }
+                }
+            }
+        }
+    ],
+    "roongta": {
+        "number": [
+            {
+                "message": {
+                    "text": "Roongta Book Store:\n9694840027"
+                }
+            }
+        ]
+    },
+    "sandpiper": {
+        "number": [
+            {
+                "message": {
+                    "text": "Sandpipers Cafe:\n9680774044"
+                }
+            }
+        ],
+        "timings": [
+            {
+                "message": {
+                    "text": "Sandpiper Cafe:\nOpen all days\n11 AM - 11 PM"
+                }
+            }
+        ],
+        "address": [
+            {
+                "message": {
+                    "text": "Sandpipers Cafe:\nNear Panchwati, Pilani"
+                }
+            }
+        ]
+    },
+    "library": {
+        "timings": [
+            {
+                "message": {
+                    "text": "Library:\nWeekdays: 9 AM - 11 PM\nHolidays: 9 AM - 5 PM\nGHOT!"
+                }
+            }
+        ]
+    },
+    "cvr": {
+        "warden": [
+            {
+                "message": {
+                    "text": "CVR Warden:\n9694096453"
+                }
+            }
+        ],
+        "chowki": [
+            {
+                "message": {
+                    "text": "CVR Chowki:\n<I don't have it. Sorry>"
+                }
+            }
+        ],
+        "supri": [
+            {
+                "message": {
+                    "text": "CVR Supri:\n<I don't have it. Sorry>"
+                }
+            }
+        ]
+    },
+    "meera": {
+        "warden": [
+            {
+                "message": {
+                    "text": "MEERA Warden:\n9694096462"
+                }
+            }
+        ],
+        "chowki": [
+            {
+                "message": {
+                    "text": "MEERA Chowki:\n<I don't have it. Sorry>"
+                }
+            }
+        ],
+        "supri": [
+            {
+                "message": {
+                    "text": "MEERA Supri:\n9694096469"
+                }
+            }
+        ]
+    },
+    "ram": {
+        "warden": [
+            {
+                "message": {
+                    "text": "RAM Warden:\n9694096490"
+                }
+            }
+        ],
+        "chowki": [
+            {
+                "message": {
+                    "text": "RAM Chowki:\n9610302288"
+                }
+            }
+        ],
+        "supri": [
+            {
+                "message": {
+                    "text": "RAM Supri:\n<I don't have it. Sorry>"
+                }
+            }
+        ]
+    },
+    "nalanda": [
+        {
+            "message": {
+                "text": "Sorry, Nalanda updates are not available right now"
+            }
+        }
+    ],
+    "twelve": {
+        "menu": [
+            {
+                "message": {
+                    "attachment": {
+                        "type": "image",
+                        "payload": {
+                            "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/twelve1.jpg",
+                            "is_reusable": true
+                        }
+                    }
+                }
+            },
+            {
+                "message": {
+                    "attachment": {
+                        "type": "image",
+                        "payload": {
+                            "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/twelve2.jpg",
+                            "is_reusable": true
+                        }
+                    }
+                }
+            }
+        ],
+        "number": [
+            {
+                "message": {
+                    "text": "Twelve Tables:\n9309223344"
+                }
+            }
+        ],
+        "timings": [
+            {
+                "message": {
+                    "text": "Twelve Tables:\nOpen all days\n11 AM - 10 PM"
+                }
+            }
+        ],
+        "address": [
+            {
+                "message": {
+                    "text": "Twelve Tables:\nRJ SH 13, Ganesh Nagar, Pilani"
+                }
+            }
+        ]
+    },
+    "swd": {
+        "number": [
+            {
+                "message": {
+                    "text": "SWD:\n+91-01596242282"
+                }
+            }
+        ],
+        "timings": [
+            {
+                "message": {
+                    "text": "SWD:\nWeekdays: 9 AM - 5 PM\nSaturday: 9 AM - 2 PM\nClosed on Sunday."
+                }
+            }
+        ],
+        "email": [
+            {
+                "message": {
+                    "text": "SWD:\nswd@pilani.bits-pilani.ac.in"
+                }
+            }
+        ]
+    },
+    "foodking": {
+        "number": [
+            {
+                "message": {
+                    "text": "Food King:\n7297835134"
+                }
+            }
+        ],
+        "timings": [
+            {
+                "message": {
+                    "text": "Food King:\nOpen all days\n5 PM - 2:15 AM"
+                }
+            }
+        ]
+    },
+    "ashok": {
+        "warden": [
+            {
+                "message": {
+                    "text": "ASHOK Warden:\n9694096450"
+                }
+            }
+        ],
+        "chowki": [
+            {
+                "message": {
+                    "text": "ASHOK Chowki:\n<I don't have it. Sorry>"
+                }
+            }
+        ],
+        "supri": [
+            {
+                "message": {
+                    "text": "ASHOK Supri:\n<I don't have it. Sorry>"
+                }
+            }
+        ]
+    },
+    "cab": [
+        {
+            "message": {
+                "attachment": {
+                    "type": "template",
+                    "payload": {
+                        "template_type": "button",
+                        "buttons": [
+                            {
+                                "type": "postback",
+                                "payload": "amit",
+                                "title": "Amit Travels"
+                            },
+                            {
+                                "type": "postback",
+                                "payload": "pathak",
+                                "title": "Pathak Travels"
+                            },
+                            {
+                                "type": "postback",
+                                "payload": "sangam",
+                                "title": "Sangam Travels"
+                            }
+                        ],
+                        "text": "Here's are some things to choose from:"
+                    }
+                }
+            }
+        },
+        {
+            "message": {
+                "attachment": {
+                    "type": "template",
+                    "payload": {
+                        "template_type": "button",
+                        "buttons": [
+                            {
+                                "type": "postback",
+                                "payload": "verma",
+                                "title": "Verma Travels"
+                            }
+                        ],
+                        "text": "Here's are some things to choose from:"
+                    }
+                }
+            }
+        }
+    ],
+    "medc": [
+        {
+            "message": {
+                "attachment": {
+                    "type": "image",
+                    "payload": {
+                        "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/medc.jpg",
+                        "is_reusable": true
+                    }
+                }
+            }
+        }
+    ],
+    "director": [
+        {
+            "message": {
+                "text": "Director AK Sarkar:\n+91-01596515244"
+            }
+        }
+    ],
+    "map": [
+        {
+            "message": {
+                "attachment": {
+                    "type": "image",
+                    "payload": {
+                        "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/map.jpg",
+                        "is_reusable": true
+                    }
+                }
+            }
+        }
+    ],
+    "dc": [
+        {
+            "message": {
+                "attachment": {
+                    "type": "template",
+                    "payload": {
+                        "template_type": "button",
+                        "buttons": [
+                            {
+                                "type": "postback",
+                                "payload": "dezire",
+                                "title": "Dezire"
+                            }
+                        ],
+                        "text": "Here's are some things to choose from:"
+                    }
+                }
+            }
+        }
+    ],
+    "prereq": [
+        {
+            "message": {
+                "attachment": {
+                    "type": "file",
+                    "payload": {
+                        "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/prerequisites.pdf",
+                        "is_reusable": true
+                    }
+                }
+            }
+        }
+    ],
+    "midsem": {
+        "dates": [
+            {
+                "message": {
+                    "attachment": {
+                        "type": "file",
+                        "payload": {
+                            "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/midsem_dates.pdf",
+                            "is_reusable": true
+                        }
+                    }
+                }
+            }
+        ],
+        "seating": [
+            {
+                "message": {
+                    "attachment": {
+                        "type": "file",
+                        "payload": {
+                            "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/seating.pdf",
+                            "is_reusable": true
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    "hospital": [
+        {
+            "message": {
+                "text": "Birla Sarvajanik:\n+91-01596242114"
+            }
+        }
+    ],
+    "thanks": [
+        {
+            "message": {
+                "text": "Welcome! :D"
+            }
+        }
+    ],
+    "president": [
+        {
+            "message": {
+                "text": "Bharat Puli:\n8297039977"
+            }
+        }
+    ],
+    "ranapratap": {
+        "warden": [
+            {
+                "message": {
+                    "text": "RANAPRATAP Warden:\n9694096453"
+                }
+            }
+        ],
+        "chowki": [
+            {
+                "message": {
+                    "text": "RANAPRATAP Chowki:\n<I don't have it. Sorry>"
+                }
+            }
+        ],
+        "supri": [
+            {
+                "message": {
+                    "text": "RANAPRATAP Supri:\n<I don't have it. Sorry>"
+                }
+            }
+        ]
+    },
+    "bhagirath": {
+        "warden": [
+            {
+                "message": {
+                    "text": "BHAGIRATH Warden:\n9694196400"
+                }
+            }
+        ],
+        "chowki": [
+            {
+                "message": {
+                    "text": "BHAGIRATH Chowki:\n<I don't have it. Sorry>"
+                }
+            }
+        ],
+        "supri": [
+            {
+                "message": {
+                    "text": "BHAGIRATH Supri:\n<I don't have it. Sorry>"
+                }
+            }
+        ]
+    },
+    "vc": [
+        {
+            "message": {
+                "text": "VC, Souvik B.:\n+91-01596515255"
+            }
+        }
+    ],
+    "calender": [
+        {
+            "message": {
+                "attachment": {
+                    "type": "image",
+                    "payload": {
+                        "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/calender.jpg",
+                        "is_reusable": true
+                    }
+                }
+            }
+        }
+    ],
+    "sharmas": {
+        "number": [
+            {
+                "message": {
+                    "text": "Sharmas Restaurant:\n9887485601"
+                }
+            }
+        ]
+    },
+    "momo": [
+        {
+            "message": {
+                "text": "Momos, BITS gate:\n9953520309"
+            }
+        }
+    ],
+    "sangam": [
+        {
+            "message": {
+                "text": "Sangam Travels:\n9829236193"
+            }
+        }
+    ],
+    "dinner": "dinner",
+    "wifi": [
+        {
+            "message": {
+                "attachment": {
+                    "type": "file",
+                    "payload": {
+                        "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/wifisetup.pdf",
+                        "is_reusable": true
+                    }
+                }
+            }
+        }
+    ],
+    "ipc": [
+        {
+            "message": {
+                "text": "IPC:\nAll 7 days:\n9 AM to Midnight.\n1 PM to 2 PM - Lunch.\n7PM to 8 PM - Dinner."
+            }
+        }
+    ],
+    "sr": {
+        "warden": [
+            {
+                "message": {
+                    "text": "SR Warden:\n9414082754"
+                }
+            }
+        ],
+        "chowki": [
+            {
+                "message": {
+                    "text": "SR Chowki:\n7231066148"
+                }
+            }
+        ],
+        "supri": [
+            {
+                "message": {
+                    "text": "SR Supri:\n9694096464"
+                }
+            }
+        ]
+    },
+    "devsaria": {
+        "number": [
+            {
+                "message": {
+                    "text": "Devsaria:\n9829375581"
+                }
+            }
+        ]
+    },
+    "help": [
+        {
+            "message": {
+                "text": "Please write precise queries\nFor example:\n1. When does akshay open ?\n2. Whats in dinner today ?\n3. Ram Chauki Contact Number\n4. What are the Medc timings ?\n5. Pizzeria Menu\n6. Give a list of hotels nearby"
+            }
+        }
+    ],
+    "nobles": {
+        "number": [
+            {
+                "message": {
+                    "text": "Nobles:\n7297059865"
+                }
+            }
+        ]
+    },
+    "looters": {
+        "menu": [
+            {
+                "message": {
+                    "attachment": {
+                        "type": "image",
+                        "payload": {
+                            "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/looter1.jpg",
+                            "is_reusable": true
+                        }
+                    }
+                }
+            },
+            {
+                "message": {
+                    "attachment": {
+                        "type": "image",
+                        "payload": {
+                            "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/looter2.jpg",
+                            "is_reusable": true
+                        }
+                    }
+                }
+            }
+        ],
+        "timings": [
+            {
+                "message": {
+                    "text": "Looters:\nOpen all days\n5 PM - 2:15 AM"
+                }
+            }
+        ]
+    },
+    "erp": {
+        "inside": [
+            {
+                "message": {
+                    "text": "ERP inside campus:\nhttps://10.2.102.21:9000/psp/hcsprod/?cmd=login"
+                }
+            }
+        ],
+        "outside": [
+            {
+                "message": {
+                    "attachment": {
+                        "type": "template",
+                        "payload": {
+                            "template_type": "button",
+                            "buttons": {
+                                "type": "web_url",
+                                "url": "https://erp.bits-pilani.ac.in:4431/psp/hcsprod/?cmd=login",
+                                "title": "ERP Outside campus link"
+                            },
+                            "text": "Here's the link:"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    "bye": [
+        {
+            "message": {
+                "text": "Goodbye! :D"
+            }
+        }
+    ],
+    "dezire": [
+        {
+            "message": {
+                "text": "Dezire address:\n172.17.32.87"
+            }
+        }
+    ],
+    "connaught": [
+        {
+            "message": {
+                "attachment": {
+                    "type": "template",
+                    "payload": {
+                        "template_type": "button",
+                        "buttons": [
+                            {
+                                "type": "postback",
+                                "payload": "sharmas",
+                                "title": "Sharmas"
+                            },
+                            {
+                                "type": "postback",
+                                "payload": "kamals",
+                                "title": "Kamals"
+                            },
+                            {
+                                "type": "postback",
+                                "payload": "nobles",
+                                "title": "Nobles"
+                            }
+                        ],
+                        "text": "Here's are some things to choose from:"
+                    }
+                }
+            }
+        }
+    ],
+    "chamber": [
+        {
+            "message": {
+                "text": "Ae ghot!\nI don't know the chamber numbers :P"
+            }
+        }
+    ],
+    "s9": {
+        "number": [
+            {
+                "message": {
+                    "text": "S9:\n9672673038"
+                }
+            }
+        ],
+        "timings": [
+            {
+                "message": {
+                    "text": "S9:\nOpen all days.\n9:30 AM - 8:30 PM"
+                }
+            }
+        ]
+    },
+    "vk": {
+        "warden": [
+            {
+                "message": {
+                    "text": "VK Warden:\n9694096453"
+                }
+            }
+        ],
+        "chowki": [
+            {
+                "message": {
+                    "text": "VK Chowki:\n<I don't have it. Sorry>"
+                }
+            }
+        ],
+        "supri": [
+            {
+                "message": {
+                    "text": "VK Supri:\n9694096474"
+                }
+            }
+        ]
+    },
+    "macncheese": {
+        "number": [
+            {
+                "message": {
+                    "text": "Mac and Cheese:\n8302334444"
+                }
+            }
+        ],
+        "address": [
+            {
+                "message": {
+                    "text": "Mac and Cheese:\nBK PLAZA, CEERI Road Pilani"
+                }
+            }
+        ]
+    },
+    "skylabs": {
+        "menu": [
+            {
+                "message": {
+                    "attachment": {
+                        "type": "image",
+                        "payload": {
+                            "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/sky1.jpg",
+                            "is_reusable": true
+                        }
+                    }
+                }
+            },
+            {
+                "message": {
+                    "attachment": {
+                        "type": "image",
+                        "payload": {
+                            "url": "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/sky2.jpg",
+                            "is_reusable": true
+                        }
+                    }
+                }
+            }
+        ],
+        "timings": [
+            {
+                "message": {
+                    "text": "Skylabs:\nOpen all days.\n9 AM to 6 PM."
+                }
+            }
+        ]
+    },
+    "verma": [
+        {
+            "message": {
+                "text": "Verma Travels:\n9829438025"
+            }
+        }
+    ],
+    "nudes": [
+        {
+            "message": {
+                "text": "You first ;)"
+            }
+        }
+    ],
+    "consultation": [
+        {
+            "message": {
+                "text": "Ae ghot!\nI don't know the consultation hours :P"
+            }
+        }
+    ],
+    "malviya": {
+        "warden": [
+            {
+                "message": {
+                    "text": "MALVIYA Warden:\n9694096460"
+                }
+            }
+        ],
+        "chowki": [
+            {
+                "message": {
+                    "text": "MALVIYA Chowki:\n8769366142"
+                }
+            }
+        ],
+        "supri": [
+            {
+                "message": {
+                    "text": "MALVIYA Supri:\n<I don't have it. Sorry>"
+                }
+            }
+        ]
+    },
+    "breakfast": "breakfast",
+    "gandhi": {
+        "warden": [
+            {
+                "message": {
+                    "text": "GANDHI Warden:\n9694096452"
+                }
+            }
+        ],
+        "chowki": [
+            {
+                "message": {
+                    "text": "GANDHI Chowki:\n9460673162"
+                }
+            }
+        ],
+        "supri": [
+            {
+                "message": {
+                    "text": "GANDHI Supri:\n9694096485"
+                }
+            }
+        ]
+    },
+    "anc": {
+        "timings": [
+            {
+                "message": {
+                    "text": "ANC:\n5 PM - 6 PM\n8:30 PM - 1:45 AM"
+                }
+            }
+        ]
+    },
+    "sunshine": {
+        "number": [
+            {
+                "message": {
+                    "text": "Hotel Sunshine:\n+91-01596242651"
+                }
+            }
+        ],
+        "address": [
+            {
+                "message": {
+                    "text": "Hotel Sunshine:\nNear Ganga Colony, W. No. 14, Bus Stand, Pilani,"
+                }
+            }
+        ]
+    },
+    "ic": {
+        "timings": [
+            {
+                "message": {
+                    "text": "IC:\n9 AM to 6 PM.\nSunday closed"
+                }
+            }
+        ]
+    },
+    "mess": [
+        {
+            "message": {
+                "attachment": {
+                    "type": "template",
+                    "payload": {
+                        "template_type": "button",
+                        "buttons": [
+                            {
+                                "type": "postback",
+                                "payload": "breakfast",
+                                "title": "Breakfast"
+                            },
+                            {
+                                "type": "postback",
+                                "payload": "lunch",
+                                "title": "Lunch"
+                            },
+                            {
+                                "type": "postback",
+                                "payload": "dinner",
+                                "title": "Dinner"
+                            }
+                        ],
+                        "text": "Here's are some things to choose from:"
+                    }
+                }
+            }
+        }
+    ],
+    "dentist": [
+        {
+            "message": {
+                "text": "Dentist:\nSaturday 4PM - 7PM"
+            }
+        }
+    ],
+    "shankar": {
+        "warden": [
+            {
+                "message": {
+                    "text": "SHANKAR Warden:\n9509045002"
+                }
+            }
+        ],
+        "chowki": [
+            {
+                "message": {
+                    "text": "SHANKAR Chowki:\n<I don't have it. Sorry>"
+                }
+            }
+        ],
+        "supri": [
+            {
+                "message": {
+                    "text": "SHANKAR Supri:\n9694096474"
+                }
+            }
+        ]
+    },
+    "vfast": [
+        {
+            "message": {
+                "text": "VFAST:\n+91-01596242183"
+            }
+        }
+    ],
+    "arcd": {
+        "number": [
+            {
+                "message": {
+                    "text": "BK Rout Assoc Dean:\n+91-01596515430"
+                }
+            }
+        ],
+        "timings": [
+            {
+                "message": {
+                    "text": "ARCD:\nWeekdays: 9 AM - 5 PM\nLunch Hours 2 PM - 3 PM\nClosed on Sunday."
+                }
+            }
+        ],
+        "email": [
+            {
+                "message": {
+                    "text": "ARCD:\narcd@bits-pilani.ac.in"
+                }
+            }
+        ]
+    },
+    "vyas": {
+        "warden": [
+            {
+                "message": {
+                    "text": "VYAS Warden:\n9694096457"
+                }
+            }
+        ],
+        "chowki": [
+            {
+                "message": {
+                    "text": "VYAS Chowki:\n8769640715"
+                }
+            }
+        ],
+        "supri": [
+            {
+                "message": {
+                    "text": "VYAS Supri:\n9694096474"
+                }
+            }
+        ]
+    }
+}

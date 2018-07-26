@@ -1,0 +1,30 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "VEG POHA",
+        "SEV",
+        "LEMON+ONION",
+        "CUT APPLE",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "GREEN/RED CHUTNEY",
+        "DAHI VADA",
+        "LAHORI PANEER",
+        "BUTTER NAAN",
+        "VEG PULAV/PLAIN RICE",
+        "PINEAPPLE RAITA",
+        "HOT BADAM MILK"
+    ],
+    "dinner": [
+        "BHEEL POORI",
+        "VEG  65",
+        "SOYA HANDI",
+        "CHAPATI",
+        "PLAIN RICE",
+        "MADRASI RASAM"
+    ]
+}

@@ -13,7 +13,7 @@ HELP = ["""Please write precise queries\nFor example:
 5. Pizzeria Menu\n6. Give a list of hotels nearby"""]
 
 WHATSAPP_LINK = "https://chat.whatsapp.com/"
-BOB_FILES = "https://www.pro-panda.tech/BOBFiles/"
+BOB_FILES = "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/"
 MIDSEM_SEATING = BOB_FILES + "seating.pdf"
 ERP_INSIDE = "https://10.2.102.21:9000/psp/hcsprod/?cmd=login"
 ERP_OUTSIDE = "https://erp.bits-pilani.ac.in:4431/psp/hcsprod/?cmd=login"
@@ -42,7 +42,7 @@ S9_TIME = "Open all days.\n9:30 AM - 8:30 PM"
 AKSHAY_TIME = ("Weekdays:\n10am - 1:30pm, 4:30pm - 9pm\n"
                "Weekends:\n10am - 2pm, 4pm - 9pm\n"
                "Monday Closed")
-IPC_TIME = ("All 7 days:\n8 AM to Midnight.\n"
+IPC_TIME = ("All 7 days:\n9 AM to Midnight.\n"
             "1 PM to 2 PM - Lunch.\n7PM to 8 PM - Dinner.")
 LIBRARY_TIME = "Weekdays: 9 AM - 11 PM\nHolidays: 9 AM - 5 PM\nGHOT!"
 DENTIST_TIME = "Saturday 4PM - 7PM"
@@ -81,7 +81,7 @@ BK_ROUT_NUM = "+91-01596515430"
 SWD_NUM = "+91-01596242282"
 S9_NUM = "9672673038"
 DEVSARIA_NUM = "9829375581"
-ROONGTA_NUM = "8769591021"
+ROONGTA_NUM = "9694840027"
 SARVAJANIK = "+91-01596242114"
 MACNCHEESE_NUM = "8302334444"
 SANDPIPER_NUM = "9680774044"
@@ -106,8 +106,8 @@ SUNSHINE_NUM = "+91-01596242651"
 PREZ_NUMBER = "8297039977"
 GENSEC_NUMBER = "9717024281"
 GN_WARDEN = "9694096452"
-SK_WARDEN = "9414082757"
-VY_WARDEN = "8239703734"
+SK_WARDEN = "9509045002"
+VY_WARDEN = "9694096457"
 RM_WARDEN = "9694096490"
 BD_WARDEN = "9694096472"
 BG_WARDEN = "9694196400"
@@ -115,9 +115,9 @@ RP_WARDEN = "9694096453"
 AK_WARDEN = "9694096450"
 MB_WARDEN = "9694096462"
 SR_WARDEN = "9414082754"
-VK_WARDEN = "9414084794"
+VK_WARDEN = "9694096453"
 MAL_WARDEN = "9694096460"
-CVR_WARDEN = "9414084794"
+CVR_WARDEN = "9694096453"
 
 GN_CHOWKI = "9460673162"
 SK_CHOWKI = "<I don't have it. Sorry>"
@@ -278,7 +278,7 @@ db = {
         "masscom": get_url(MASSCOMM_GRP, "Mass Comm group"),
         "pom": get_url(POM_GRP, "POM group")
     },
-    "dezire": get_text("Dezire address:\n172.17.29.12"),
+    "dezire": get_text("Dezire address:\n172.17.32.87"),
     "laundromat": get_text(LAUNDRO_TIME, "Laundromat Timings"),
     "twelve": {
         "timings": get_text(TWELVE_TIME, "Twelve Tables"),

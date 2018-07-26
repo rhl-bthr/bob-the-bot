@@ -1,0 +1,30 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "BREAD PAKODA",
+        "GREEN CHUTNEY",
+        "SWEET DALIYA",
+        "CUT APPLE",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "TOMATO SAUCE",
+        "FRENCH FRIES",
+        "RAGADA MASALA",
+        "CURD/BUTTER",
+        "GOBI  PARANTHA",
+        "LEMON RICE",
+        "RED SAMABR"
+    ],
+    "dinner": [
+        "PAPRI CHAAT",
+        "RAJMA MASLA",
+        "CHANA DAL",
+        "CHAPATI",
+        "THAKKALI RASAM",
+        "HOT BADAM MILK"
+    ]
+}

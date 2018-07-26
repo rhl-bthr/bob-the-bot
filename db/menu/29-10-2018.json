@@ -1,0 +1,30 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "SEMIYA UPMA",
+        "TOMATO CHUTNEY",
+        "BANANA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "MACRONI SALAD",
+        "VEG  HYDRABADI",
+        "DUM ALOO",
+        "DAL TADKA",
+        "CHAPATI",
+        "JEERA RICE",
+        "BEET ROOT RAITA"
+    ],
+    "dinner": [
+        "KHEERA SALAD",
+        "KHATTA MEETHA KADU",
+        "MIRCHI KA SALAN",
+        "DAL MASALA",
+        "PLAIN RICE",
+        "GINGER RASAM",
+        "JALEBI"
+    ]
+}

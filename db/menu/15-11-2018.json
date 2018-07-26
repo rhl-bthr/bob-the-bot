@@ -1,0 +1,32 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "TOMATO  BESAN OMELETTE",
+        "GREEN CHUTNEY",
+        "ONION+LEMON",
+        "WATERMELON",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "PAPAD",
+        "Rajasthani Kadhi",
+        "kathiyawadi khichdi",
+        "CHAPATI",
+        "CHILLY FRY",
+        "MYSORE SAMBAR",
+        "ROSE LEMONADE"
+    ],
+    "dinner": [
+        "VEG LETTUCE SALAD",
+        "VEG 65",
+        "RAJMA MASALA",
+        "DAL PALAK",
+        "CHAPATI",
+        "ONION RICE",
+        "MILAGU RASAM",
+        "JALEBI"
+    ]
+}

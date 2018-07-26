@@ -1,0 +1,30 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD+ JAM",
+        "ALOO PARANTHA",
+        "PLAIN CURD",
+        "WATERMELON",
+        "TEA  +COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "RICE PAPAD",
+        "MADRASI ALOO",
+        "KADI PAKODA",
+        "VEG MASALA KHICHDI",
+        "CHAPATI",
+        "CHILLY FRY",
+        "SHIKANJI"
+    ],
+    "dinner": [
+        "GREEN SALAD",
+        "RAJMA MASALA",
+        "ARHAR  DAL",
+        "CHAPATI",
+        "PLAIN RICE",
+        "ZEERA RASAM",
+        "SEEVIAN KHEER"
+    ]
+}

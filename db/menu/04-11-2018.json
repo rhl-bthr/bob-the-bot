@@ -1,0 +1,28 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "TIFFIN SAMBHAR",
+        "COCONUT  CHUTNEY",
+        "PAPAYA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "ONION  SALAD",
+        "PANEER LAZEEZ  M/S",
+        "BUTTER CHICKEN",
+        "BIRYANI RICE",
+        "PAHADI RAITA"
+    ],
+    "dinner": [
+        "GREEN SALAD",
+        "ALOO GOBI DRY",
+        "SOYA HANDI",
+        "CHAPATI",
+        "RICE",
+        "MADRASI RASAM",
+        "HOT CHOCOLATE MILK"
+    ]
+}

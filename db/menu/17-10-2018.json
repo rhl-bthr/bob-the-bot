@@ -1,0 +1,26 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "MISSAL",
+        "PAO",
+        "LEMON+ONION",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "ONION  SALAD",
+        "TAWA ROTI",
+        "JEERA RICE",
+        "ROSE LEMONADE"
+    ],
+    "dinner": [
+        "ALOO BEANS",
+        "PALAK CORN",
+        "MIX DAL",
+        "CHAPATI",
+        "PLAIN RICE",
+        "KERALA RASAM"
+    ]
+}
