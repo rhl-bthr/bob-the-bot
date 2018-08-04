@@ -166,7 +166,7 @@ def get_meal(mealtype):
 
     if now != MESS['date']:
         try:
-            with open('db/menu' + now + ".json") as json_data:
+            with open('db/menu/' + now + ".json") as json_data:
                 today = json.load(json_data)
         except:
             return "<Sorry, Menu will be updated by tonight>"
