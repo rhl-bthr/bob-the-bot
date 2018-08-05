@@ -28,11 +28,6 @@ MAP = BOB_FILES + "map.jpg"
 DELHIBUS = BOB_FILES + "delhibus.jpg"
 MEDC = BOB_FILES + "medc.jpg"
 
-LING_GRP = WHATSAPP_LINK + "5u3oT8vmuGd5tgOOoU7MsM"
-PAVA_GRP = WHATSAPP_LINK + "1D1qAswAzVgIbKve2pjMOf"
-CINEAD_GRP = WHATSAPP_LINK + "73NB3xF0upPGYIeJY9viYg"
-MASSCOMM_GRP = WHATSAPP_LINK + "4gPsdzTCBJXBDjoKi8w5WH"
-POM_GRP = WHATSAPP_LINK + "4H6P8xmDo6JG2DGrlxo9rf"
 
 SWD_TIME = "Weekdays: 9 AM - 5 PM\nSaturday: 9 AM - 2 PM\nClosed on Sunday."
 PIZZ_TIME = "10 AM - 11 PM"
@@ -270,13 +265,6 @@ db = {
     },
     "nobles": {
         "number": get_text(NOBLES_NUM, "Nobles")
-    },
-    "whatsapp": {
-        "linguistics": get_url(LING_GRP, "Ling group"),
-        "cinead": get_url(CINEAD_GRP, "CineAd group"),
-        "pava": get_url(PAVA_GRP, "PAVA group"),
-        "masscom": get_url(MASSCOMM_GRP, "Mass Comm group"),
-        "pom": get_url(POM_GRP, "POM group")
     },
     "dezire": get_text("Dezire address:\n172.17.32.87"),
     "laundromat": get_text(LAUNDRO_TIME, "Laundromat Timings"),
