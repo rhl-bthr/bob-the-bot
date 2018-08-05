@@ -13,7 +13,7 @@ HELP = ["""Please write precise queries\nFor example:
 5. Pizzeria Menu\n6. Give a list of hotels nearby"""]
 
 WHATSAPP_LINK = "https://chat.whatsapp.com/"
-BOB_FILES = "https://www.pro-panda.tech/BOBFiles/"
+BOB_FILES = "https://www.pro-panda.tech/bob-the-bot/db/BOBFiles/"
 MIDSEM_SEATING = BOB_FILES + "seating.pdf"
 ERP_INSIDE = "https://10.2.102.21:9000/psp/hcsprod/?cmd=login"
 ERP_OUTSIDE = "https://erp.bits-pilani.ac.in:4431/psp/hcsprod/?cmd=login"
