@@ -1,0 +1,29 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "COLESLAW S/W",
+        "Sweet Daliya",
+        "BANANA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "LUNCH",
+        "GREEN CHUTNEY",
+        "VEG H/BHARI TIKKI",
+        "RAGDA MATTER",
+        "MASALA KULCHA",
+        "GULAB JAMUN"
+    ],
+    "dinner": [
+        "MEXICAN SALAD",
+        "CABBAGE  MATTER",
+        "DUM ALOO",
+        "DAL PUNCHRATNA",
+        "CHAPATI",
+        "PLAIN RICE",
+        "GINGER RASAM"
+    ]
+}
