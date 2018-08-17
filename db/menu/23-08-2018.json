@@ -1,0 +1,32 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "BREAD PAKORA",
+        "TOMATO SAUCE",
+        "SWEET DALIYA",
+        "PINEAPPLE",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "RICE PAPAD",
+        "ACHARI ALOO",
+        "RAJASTHANI KADI",
+        "DAL LASOONI",
+        "CHAPATI",
+        "M/S KHICHDI&RICE",
+        "GREEN CHILLI FRY",
+        "SHIKANJI"
+    ],
+    "dinner": [
+        "TANDOORI SALAD",
+        "BHINDI  DO PIYAZA",
+        "VEG MAKHANWALA",
+        "CHAPATI",
+        "PLAIN RICE",
+        "RASAM",
+        "FRUIT CUSTARD"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "IDLI",
+        "SAMBAR",
+        "CHUTNEY",
+        "CUT FRUITS",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "VEG TACO SALAD",
+        "CABBAGE BLACK CHANNA",
+        "SEV TOMATO",
+        "DAL TADKA",
+        "CHAPATI",
+        "PLAIN RICE",
+        "SAMBAR",
+        "BUTTER SCOTCH I/C"
+    ],
+    "dinner": [
+        "GREEN SALAD",
+        "TAWA SUBJI",
+        "DAHI ALOO",
+        "DAL MAHARANI",
+        "CHAPATI",
+        "PLAIN RICE",
+        "CUCUMBER RAITA"
+    ]
+}

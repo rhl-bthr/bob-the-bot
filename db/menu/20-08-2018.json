@@ -3,25 +3,26 @@
         "CHOICE OF EGG",
         "CORNFLAKES",
         "BREAD +JAM",
-        "BATATA POHA",
-        "NAMKIN SEV",
-        "LEMON + ONION",
+        "POORI",
+        "BANANA",
         "TEA+ COFFEE",
         "Milk"
     ],
     "lunch": [
-        "LUNCH",
-        "ONION SALAD",
+        "MACRONI SALAD",
         "CAPSICUM ALOO",
-        "BLACK CHANA MASALA",
+        "BLACK CHANA M/S",
+        "ARHAR DAL  FRY",
         "PLAIN RICE",
         "UDUPI SAMABAR",
-        "KHUS SHARBAT"
+        "COLD CHOCOLATE MILK"
     ],
     "dinner": [
-        "Mix  Salad",
-        "PUMPKIN MASALA",
+        "GREEN SALAD",
+        "GHIYA SABJI",
+        "RAJMA MASALA",
+        "CHAPATI",
         "PLAIN RICE",
-        "BURANI RAITA"
+        "PINEAPPLE RAITA"
     ]
 }

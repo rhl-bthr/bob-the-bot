@@ -3,27 +3,28 @@
         "CHOICE OF EGG",
         "CORNFLAKES",
         "BREAD +JAM",
-        "SEMIYA  UPMA",
-        "TOMATO CHUTNEY",
+        "TIKKI S/W",
+        "GREEN CHUTNEY",
+        "SWEET DALIYA",
+        "PAPAYA",
         "TEA+ COFFEE",
         "Milk"
     ],
     "lunch": [
-        "LUNCH",
         "GREEN SALAD",
-        "MIX VEG",
-        "DAL TADKA",
+        "CABBAGE BLACK CHANNA",
+        "MIX DAL FRY",
         "CHAPATI",
-        "ZEERA RICE",
-        "BOONDI RAITA",
-        "BUTTER SCOTCH I/C"
+        "PLAIN RICE",
+        "SAMBAR",
+        "MANGO LASSI"
     ],
     "dinner": [
         "PARMAL ALOO",
-        "GREEN PEAS  MASALA",
+        "SEV TOMATO",
         "MIX DAL TADKA",
         "CHAPATI",
         "PLAIN RICE",
-        "GINGER RASAM"
+        "RASAM"
     ]
 }

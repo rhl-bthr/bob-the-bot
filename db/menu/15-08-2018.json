@@ -1,32 +1,31 @@
 {
     "breakfast": [
-        "CHOICE OF EGG",
-        "CORNFLAKES",
-        "BREAD +JAM",
-        "PUNUGULLU",
-        "ADRAK CHUTNEY",
-        "SWEET DALIYA",
-        "WATERMELON",
-        "TEA+ COFFEE",
-        "Milk"
+        "Eggs",
+        "Cereals",
+        "Bread+Jam",
+        "Indian Item",
+        "Accompaniments",
+        "Fruits",
+        "Beverages"
     ],
     "lunch": [
-        "LUNCH",
-        "HARA BHARA KEBAB",
-        "PANEER BUTTER MSALA",
-        "DAL TADKA",
-        "AJWAINI TIKONA PARANTHA",
-        "TIRANGA PULAO",
-        "PINEAPPLE RAITA",
-        "RASGULLA"
+        "Salad",
+        "Dry Veg",
+        "Veg Gravy",
+        "Dal / Pulses / Kadi",
+        "Breads",
+        "Rice",
+        "Curd / Sambar",
+        "Dessert / Drink"
     ],
     "dinner": [
-        "BHEEL POORI",
-        "CHU CHU BAINGAN",
-        "MANGODI RASA",
-        "DAL MASALA",
-        "CHAPATI",
-        "PLAIN RICE",
-        "GINGER RASAM"
+        "Salad",
+        "Dry Veg",
+        "Veg Gravy",
+        "Dal / Pulses / Kadi",
+        "Breads",
+        "Rice",
+        "Rasam",
+        "Dessert / Drink"
     ]
 }

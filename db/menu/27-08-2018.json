@@ -1,31 +1,29 @@
 {
     "breakfast": [
-        "CHOICE OF EGG",
+        "NO EGG",
         "CORNFLAKES",
         "BREAD +JAM",
-        "MASALA S/W",
-        "TOM SAUCE",
+        "M/S S/W",
         "SWEET DALIYA",
         "BANANA",
         "TEA+ COFFEE",
         "Milk"
     ],
     "lunch": [
-        "LUNCH",
         "GREEN SALAD",
-        "PARMAL ALOO",
-        "METHI MUTTER MALAI",
+        "RAJMA MASALA",
+        "SOYA MATTER",
         "CHAPATI",
-        "JEERA RICE",
-        "PUMPKIN SAMBHAR"
+        "PLAIN RICE",
+        "KERLA SAMBAR",
+        "BOONDI JALJEERA"
     ],
     "dinner": [
-        "KIM CHI SALAD",
+        "KHIMCHI SALAD",
+        "POTATO CHILLY",
         "VEG MANCHURIAN",
-        "SOYA CHILLI",
-        "DAL PANCHMEL",
         "CHAPATI",
         "VEG FRIED RICE",
-        "KALIMIRI RASAM"
+        "RASAM"
     ]
 }
