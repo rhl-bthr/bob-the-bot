@@ -1,0 +1,29 @@
+{
+    "breakfast": [
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "VEG POHA",
+        "SEV",
+        "ONION + LEMON",
+        "PAPAYA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "LASOON KI  CHUTNEY",
+        "METHI MUTTER MALAI",
+        "DAL PUNJABI",
+        "CHAPATI",
+        "ONION RICE",
+        "ANDHRA SAMBAR",
+        "Cream & Cookies I/C"
+    ],
+    "dinner": [
+        "ONION +LEMON",
+        "DRY PUMPKIN",
+        "CHHOLE AMRITSARI",
+        "BHATURE",
+        "JEERA  RICE",
+        "MASALA CHAACH"
+    ]
+}

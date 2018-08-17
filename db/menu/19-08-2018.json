@@ -1,0 +1,29 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "MASALA DOSA",
+        "SAMBAR",
+        "COCONUT CHUTNEY",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "ONION SALAD",
+        "PANEER LABABDAR",
+        "PLAIN NAAN",
+        "DUM  BIRYANI  RICE",
+        "BURANI RAITA",
+        "BOONDI JALJEERA"
+    ],
+    "dinner": [
+        "MEXICAN SALAD",
+        "GREEN PEAS CURRY",
+        "DAL PUNCHRATNA",
+        "CHAPATI",
+        "PLAIN RICE",
+        "GINGER RASAM",
+        "GULAB JAMUN"
+    ]
+}
