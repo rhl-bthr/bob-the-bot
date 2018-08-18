@@ -1,5 +1,6 @@
 {
     "breakfast": [
+        "BREAKFAST",
         "CHOICE OF EGG",
         "CORNFLAKES",
         "BREAD +JAM",
@@ -7,10 +8,10 @@
         "TOMATO SAUCE",
         "SWEET DALIYA",
         "PINEAPPLE",
-        "TEA+ COFFEE",
-        "Milk"
+        "TEA+ COFFEE"
     ],
     "lunch": [
+        "THURSDAY",
         "RICE PAPAD",
         "ACHARI ALOO",
         "RAJASTHANI KADI",
