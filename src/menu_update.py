@@ -1,14 +1,18 @@
 """
 MIT License
+
 Copyright (c) 2017 Divesh Uttamchandani
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
+
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -35,7 +39,7 @@ no_of_days = 15
 
 for wb in glob.glob("*.xlsx"):
     messywb = openpyxl.load_workbook(wb)
-    messysheet = messywb.get_active_sheet()
+    messysheet = messywb.active
 
     for i in range(1, no_of_days + 1):
         breakfast = []
@@ -70,4 +74,4 @@ for wb in glob.glob("*.xlsx"):
         json_string = json.dumps(menu, indent=4)
         fi = open(filename, "w+")
         fi.write(json_string)
-fi.close()
+        fi.close()
