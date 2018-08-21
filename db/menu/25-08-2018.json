@@ -1,0 +1,29 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "PAV",
+        "ONION +LEMON",
+        "WATER MELON",
+        "TEA+ COFFEE"
+    ],
+    "lunch": [
+        "SATURDAY",
+        "GREEN CHUTNEY",
+        "FRENCH FRIES",
+        "RAGDA MUTTER",
+        "CURD / BUTTER",
+        "M/S KULCHA",
+        "VEG PULAO",
+        "MINT COOLER"
+    ],
+    "dinner": [
+        "GREEN SALAD",
+        "METHI MUTTER MALAI",
+        "DAL PANCHMEL",
+        "CHAPATI",
+        "PLAIN  RICE",
+        "KALIMIRI RASAM"
+    ]
+}

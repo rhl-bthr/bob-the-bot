@@ -1,0 +1,29 @@
+{
+    "breakfast": [
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "VEG POHA",
+        "SEV",
+        "ONION + LEMON",
+        "PINEAPPLE",
+        "TEA+ COFFEE"
+    ],
+    "lunch": [
+        "TUESDAY",
+        "GREEN SALAD",
+        "VEG KOFTA CURRY",
+        "CHAPATI",
+        "PLAIN RICE",
+        "KERLA SAMBAR",
+        "MANGO I/C"
+    ],
+    "dinner": [
+        "ONION +LEMON",
+        "KHATTA METHA KADU",
+        "CHHOLE AMRITSARI",
+        "PURI",
+        "JEERA  RICE",
+        "BOONDI RAITA",
+        "MOHAN THAL"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "MASALA DOSA",
+        "SAMBAR",
+        "COCONUT CHUTNEY",
+        "PAPAYA",
+        "TEA+ COFFEE"
+    ],
+    "lunch": [
+        "SUNDAY",
+        "ONION  SALAD",
+        "HANDI PANEER",
+        "KADHAI CHICKEN",
+        "CHAPATI",
+        "ONION MINT RAITA",
+        "MANGO LASSI"
+    ],
+    "dinner": [
+        "GREEN SALAD",
+        "CABBAGE MUTTER",
+        "DAL MAKHANI",
+        "CHAPATI",
+        "PLAIN RICE",
+        "RASAM"
+    ]
+}

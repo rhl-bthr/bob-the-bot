@@ -1,0 +1,31 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "ONION UTTAPAM",
+        "SAMBAR",
+        "CHUTNEY",
+        "WATERMELON",
+        "TEA+ COFFEE"
+    ],
+    "lunch": [
+        "WEDNESDAY",
+        "CORN MINT KEBAB",
+        "BHAGARE BAINGAN",
+        "HANDI TOFU PANEER",
+        "MIX DAL",
+        "CHAPATI",
+        "PLAIN RICE",
+        "BOONDI RAITA",
+        "SHEER KORMA(Sevai)"
+    ],
+    "dinner": [
+        "GREEN SALAD",
+        "TAWA SOYA DRY",
+        "MIX DAL FRY",
+        "CHAPATI",
+        "PLAIN RICE",
+        "TOMATO RASAM"
+    ]
+}

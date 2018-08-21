@@ -1,0 +1,30 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "DAL PARANTHA",
+        "CURD / BUTTER",
+        "TEA  +COFFEE"
+    ],
+    "lunch": [
+        "THURSDAY",
+        "M/S PAPAD",
+        "MADRASI ALOO",
+        "RAJASTHANI KADI",
+        "BLACK MASOOR",
+        "CHAPATI",
+        "M/S KHICHDI&RICE",
+        "GREEN CHILLI FRY",
+        "SHIKANJI"
+    ],
+    "dinner": [
+        "GREEN SALAD",
+        "BHINDI CHIPS",
+        "SOYA MUTTER  M/S",
+        "ARHAR DAL  FRY",
+        "CHAPATI",
+        "PLAIN RICE",
+        "RASAM"
+    ]
+}

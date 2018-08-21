@@ -1,0 +1,27 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "SEMIYA UPMA",
+        "TOMATO CHUTNEY",
+        "PINEAPPLE",
+        "TEA+ COFFEE"
+    ],
+    "lunch": [
+        "SATURDAY",
+        "HARA BHARA KEBAB",
+        "GREEN CHUTNEY",
+        "RAGDA MUTTER",
+        "CURD/ BUTTER",
+        "M/S KULCHA",
+        "PEAS PULAU",
+        "SAMBAR",
+        "CHOCOLATE I/C"
+    ],
+    "dinner": [
+        "GATTA  CURRY",
+        "PLAIN RICE",
+        "RASAM"
+    ]
+}

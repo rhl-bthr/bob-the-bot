@@ -1,0 +1,30 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "PUNUGULLU",
+        "ADRAK CHUTNEY",
+        "SWEET DALIYA",
+        "PAPAYA",
+        "TEA+ COFFEE"
+    ],
+    "lunch": [
+        "THURSDAY",
+        "PAPAD",
+        "JEERA ALOO",
+        "METHI KADI",
+        "M/S KHAICHDI",
+        "PLAIN RICE",
+        "BEET ROOT RAITA"
+    ],
+    "dinner": [
+        "KHEERA SALAD",
+        "PARMAL DO PIYAZA",
+        "DAHI ALOO",
+        "DAL MAKHANI",
+        "CHAPATI",
+        "PLAIN RICE",
+        "GINGER RASAM"
+    ]
+}
