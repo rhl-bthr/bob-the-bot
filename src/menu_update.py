@@ -39,7 +39,7 @@ no_of_days = 15
 
 for wb in glob.glob("*.xlsx"):
     messywb = openpyxl.load_workbook(wb)
-    messysheet = messywb.active
+    messysheet = messywb.get_active_sheet()
 
     for i in range(1, no_of_days + 1):
         breakfast = []
