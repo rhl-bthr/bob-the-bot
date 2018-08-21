@@ -7,15 +7,9 @@ Returns - list of corrected words.
 """
 
 
-def words(text): return text.split("\n")  # can be changed to ; later on
-# Dictionary: lower case words separated by spapce
-
-WORDS = words(
-    open(
-        'db/dictionary.txt').read(
-) + open(
-                'db/commondict.txt').read(
-                    ))
+dictionary = open('db/dictionary.txt').read()
+common_dict = open('db/commondict.txt').read()
+WORDS = (dictionary + common_dict).split("\n")
 
 
 def correct(word_list):
@@ -34,21 +28,10 @@ def correct(word_list):
 
 
 def mini_correction(word):
-    """If any word matching 'word' is found from mini_candidates return 1st word else return empty string."""
     try:
-        return mini_candidates(word)[0]
+        return (known([word]) + known(edits1(word)))[0]
     except:
         return ''
-
-
-def mini_candidates(word):
-    """
-    Generate possible spelling corrections for word.
-
-    Returns words that are either directly in WORDS (main dictionary)
-    or are 1 edit away from a word in WORDS.
-    """
-    return known([word]) or known(edits1(word))
 
 
 def known(words):
@@ -69,8 +52,3 @@ def edits1(word):
     replaces = [L + c + R[1:] for L, R in splits if R for c in letters]
     inserts = [L + c + R for L, R in splits for c in letters]
     return set(deletes + transposes + replaces + inserts)
-
-
-def edits2(word):
-    "Return all edits that are two edits away from `word`."
-    return (e2 for e1 in edits1(word) for e2 in edits1(e1))
