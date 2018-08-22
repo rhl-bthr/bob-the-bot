@@ -7,8 +7,7 @@ I am currently available only on messenger.
 I give the college community instant access to necessary information regarding the campus, academics and its activities. This will save them precious time wasted while waiting for a response from others via existing groups on Whatsapp/Messenger.
 
 ## Logo
-![BOB logo](db/BOBFiles/boblogo.png?raw=true "logo")
-
+<img src="https://github.com/pro-panda/bob-the-bot/blob/update_logo/db/BOBFiles/boblogo.png" width="150" alt="BOB logo">
 
 ## Tech/frameworks used:
  - Interaction with Facebook is done using the [flask](http://flask.pocoo.org/) framework
