@@ -1,14 +1,29 @@
-# BOB - The Bot
+## BOB - the bot
+Hi, I am BOB! I am a chatbot built on messenger designed for College students, and teachers to help them get access to important information instantly.
+I am currently available only on messenger.
+[try me!](m.me/ChatBotBOB)
 
-## About:
-It is a chatbot built on messenger designed for College students, and teachers to help them get access to important information instantly.
-It will give the college community instant access to necessary information regarding the campus, academics and its activities. 
-This will save them precious timewasted while waiting for a response from others via existing groups on Whatsapp/Messenger.
+## Motivation
+I give the college community instant access to necessary information regarding the campus, academics and its activities. This will save them precious time wasted while waiting for a response from others via existing groups on Whatsapp/Messenger.
 
-## Link to BOB: 
-m.me/ChatBotBOB
+## Logo
+<img src="https://github.com/pro-panda/bob-the-bot/blob/master/db/BOBFiles/boblogo.png" width="150" alt="BOB logo">
 
-## Query examlpes:
- 1. Contact Number of the Ram Hostel's warden 
- 2. Medical Centre timings 
- 3. Is Student welfare division open today ?
+## Tech/frameworks used:
+ - Interaction with Facebook is done using the [flask](http://flask.pocoo.org/) framework
+ - Python is used to sort and get an answer to a query
+ - [Peter Norvig's](https://norvig.com/spell-correct.html) spell check algorithm is used to implement spell correct in queries
+ - Python dictionaries are used to store the data as they give a constant time output
+ - App is hosted on the [Heroku](http://heroku.com) Hosting Platform
+
+## Developers:
+ - Rahul Bothra ([Pro-Panda](https://github.com/pro-panda))
+
+## Contributors:
+- Manan Soni ([MananSoni42](https://github.com/MananSoni42))
+- Chinmay Hebbar ([cheese-cracker](https://github.com/cheese-cracker))
+
+## License
+This project is licensed under:
+* MIT license
+* GNU GPL v3
