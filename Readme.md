@@ -7,7 +7,7 @@ I am currently available only on messenger.
 I give the college community instant access to necessary information regarding the campus, academics and its activities. This will save them precious time wasted while waiting for a response from others via existing groups on Whatsapp/Messenger.
 
 ## Logo
-<img src="https://github.com/pro-panda/bob-the-bot/blob/update_logo/db/BOBFiles/boblogo.png" width="150" alt="BOB logo">
+<img src="https://github.com/pro-panda/bob-the-bot/blob/master/db/BOBFiles/boblogo.png" width="150" alt="BOB logo">
 
 ## Tech/frameworks used:
  - Interaction with Facebook is done using the [flask](http://flask.pocoo.org/) framework
@@ -21,7 +21,7 @@ I give the college community instant access to necessary information regarding t
 
 ## Contributors:
 - Manan Soni ([MananSoni42](https://github.com/MananSoni42))
-- Manan Soni ([cheese-cracker](https://github.com/cheese-cracker))
+- Chinmay Hebbar ([cheese-cracker](https://github.com/cheese-cracker))
 
 ## License
 This project is licensed under:
