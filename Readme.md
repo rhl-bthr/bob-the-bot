@@ -1,14 +1,17 @@
-# BOB - The Bot
+# BOB - the bot
+<img src="./db/BOBFiles/boblogo.png" width="150" alt="BOB logo">
 
-## About:
-It is a chatbot built on messenger designed for College students, and teachers to help them get access to important information instantly.
-It will give the college community instant access to necessary information regarding the campus, academics and its activities. 
-This will save them precious timewasted while waiting for a response from others via existing groups on Whatsapp/Messenger.
+Hi, I am BOB! I am a messenger chatbot designed for college students, and teachers to help them get access to important information instantly.
 
-## Link to BOB: 
-m.me/ChatBotBOB
+## Link to BOB:
+https://m.me/ChatBotBOB
 
-## Query examlpes:
- 1. Contact Number of the Ram Hostel's warden 
- 2. Medical Centre timings 
- 3. Is Student welfare division open today ?
+Say `Hi` to get started!
+
+## How to Contribute:
+ - Open an issue if you find any bug or have a feature request
+ - Open a Pull Request if you'd like to implement any feature
+
+## License
+* GNU GPL v3 © [Rahul Bothra](https://github.com/pro-panda)
+* MIT © [Divesh Uttamchandani](https://github.com/diveshuttam)
