@@ -3,25 +3,22 @@
         "CHOICE OF EGG",
         "CORNFLAKES",
         "BREAD +JAM",
-        "MISSAL",
-        "PAV",
+        "KANDHA POHA",
+        "SEV",
         "ONION + LEMON",
-        "PAPAYA",
+        "BANANA",
         "TEA+ COFFEE",
         "Milk"
     ],
     "lunch": [
-        "LUNCH",
-        "MACRONI SALAD",
-        "TAWA VEG",
-        "GATTA CURRY",
+        "RAJASTHANI KADI",
+        "ACCHARI ALOO",
         "CHAPATI",
-        "PLAIN RICE",
-        "ANDHRA SAMBAR",
-        "MASALA CHAACH"
+        "KHICHDI / PLAIN RICE",
+        "CHOCO CHIP I/C"
     ],
     "dinner": [
-        "MIX SALAD",
+        "CUCUMBER ONION",
         "TAWA SOYA DRY",
         "VEG MAKHANWALA",
         "MIX DAL FRY",
