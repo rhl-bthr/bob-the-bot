@@ -3,27 +3,27 @@
         "CHOICE OF EGG",
         "CORNFLAKES",
         "BREAD +JAM",
-        "PAV",
-        "ONION +LEMON",
-        "WATER MELON",
-        "TEA+ COFFEE"
+        "Aloo Tikki S/W",
+        "TOM SOUCE",
+        "SWEET DALIYA",
+        "TEA  +COFFEE",
+        "Milk"
     ],
     "lunch": [
-        "SATURDAY",
         "GREEN CHUTNEY",
-        "FRENCH FRIES",
         "RAGDA MUTTER",
         "CURD / BUTTER",
         "M/S KULCHA",
-        "VEG PULAO",
-        "MINT COOLER"
+        "VEG PULAU",
+        "SHIKANJI"
     ],
     "dinner": [
         "GREEN SALAD",
-        "METHI MUTTER MALAI",
-        "DAL PANCHMEL",
+        "BHINDI CHIPS",
+        "SOYA MATTER  MASALA",
+        "ARHAR DAL  FRY",
         "CHAPATI",
-        "PLAIN  RICE",
-        "KALIMIRI RASAM"
+        "PLAIN RICE",
+        "TOMATO RASAM"
     ]
 }

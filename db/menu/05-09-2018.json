@@ -3,26 +3,24 @@
         "CHOICE OF EGG",
         "CORNFLAKES",
         "BREAD +JAM",
-        "MASALA DOSA",
-        "COCONUT  CHUTNEY",
+        "SEMIYA UPMA",
+        "ADRAK TOMATO CHUTNY",
         "PINEAPPLE",
         "TEA+ COFFEE",
         "Milk"
     ],
     "lunch": [
-        "GRUB",
-        "ONION SALAD",
-        "BUTTER CHICKEN",
-        "PANEER LABABDAR",
+        "KADHAI PANEER",
+        "MOONG  DAL TADKA",
         "CHAPATI",
-        "DUM  BIRYANI  RICE",
-        "CUCUMBER RAITA",
-        "AAM PANNA"
+        "ONION RICE",
+        "CUCUMBER RAITA"
     ],
     "dinner": [
         "GREEN SALAD",
-        "GHIYA MASALA",
-        "KADI PAKORA",
+        "CORN MASALA",
+        "DAHI ALOO",
+        "ARHAR DAL",
         "CHAPATI",
         "PLAIN RICE"
     ]

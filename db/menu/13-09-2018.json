@@ -6,26 +6,23 @@
         "VEG POHA",
         "SEV",
         "ONION + LEMON",
-        "PAPAYA",
+        "PINEAPPLE",
         "TEA+ COFFEE",
         "Milk"
     ],
     "lunch": [
-        "LUNCH",
-        "RICE PAPAD",
-        "MADRASI ALOO",
-        "MIX DAL FRY",
-        "CHAPATI",
-        "M/S KHICHDI &RICE",
-        "SAMBAR",
-        "MANGO LASSI"
+        "MASALA PAPAD",
+        "MIX DAL",
+        "M/S KHICHDI & RICE",
+        "SHIKANJI"
     ],
     "dinner": [
         "GREEN SALAD",
-        "MIX KATHOL",
-        "BHINDI DO PIYAZA",
-        "CHAPATI",
+        "PINDI CHHOLE",
+        "TOMATO DAL",
+        "KHASTA PARATHA",
         "PLAIN RICE",
-        "RASAM"
+        "KERLA SAMBAR",
+        "CHOCO BURFI"
     ]
 }
