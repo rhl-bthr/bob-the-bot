@@ -1,0 +1,32 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "PUNUGULLU",
+        "ADRAK CHUTNEY",
+        "SWEET DALIYA",
+        "WATERMELON",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "LUNCH",
+        "HARA BHARA KEBAB",
+        "PANEER BUTTER MSALA",
+        "DAL TADKA",
+        "AJWAINI TIKONA PARANTHA",
+        "TIRANGA PULAO",
+        "PINEAPPLE RAITA",
+        "RASGULLA"
+    ],
+    "dinner": [
+        "BHEEL POORI",
+        "CHU CHU BAINGAN",
+        "MANGODI RASA",
+        "DAL MASALA",
+        "CHAPATI",
+        "PLAIN RICE",
+        "GINGER RASAM"
+    ]
+}

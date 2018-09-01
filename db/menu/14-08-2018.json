@@ -1,0 +1,27 @@
+{
+    "breakfast": [
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "IDLI",
+        "SAMBAR",
+        "CHUTNEY",
+        "BANANA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "LUNCH",
+        "GREEN SALAD",
+        "TORAI MASALA",
+        "DAHI ALOO",
+        "MIX DAL TADKA",
+        "LEMON RICE",
+        "SOOJI PINEAPPLE HALWA"
+    ],
+    "dinner": [
+        "FINGER SALAD",
+        "WHITE MATTER  MASALA",
+        "HING DAL TADKA",
+        "CHAPATI"
+    ]
+}

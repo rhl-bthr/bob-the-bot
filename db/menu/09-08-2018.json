@@ -1,0 +1,29 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "ONION UTTAPAM",
+        "SAMBAR",
+        "CHUTNEY",
+        "PINEAPPLE",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "LUNCH",
+        "MASALA PAPAD",
+        "ACCHARI ALOO",
+        "RAJASTHANI KADI",
+        "KHICHDI",
+        "SWEET LASSI"
+    ],
+    "dinner": [
+        "TAWA SUBJI",
+        "SEV TOMATO",
+        "DAL MASALA",
+        "CHAPATI",
+        "PLAIN RICE",
+        "TOM RASAM"
+    ]
+}

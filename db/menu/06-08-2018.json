@@ -1,0 +1,32 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "MISSAL",
+        "PAV",
+        "ONION + LEMON",
+        "PAPAYA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "LUNCH",
+        "MACRONI SALAD",
+        "TAWA VEG",
+        "GATTA CURRY",
+        "CHAPATI",
+        "PLAIN RICE",
+        "ANDHRA SAMBAR",
+        "MASALA CHAACH"
+    ],
+    "dinner": [
+        "MIX SALAD",
+        "TAWA SOYA DRY",
+        "VEG MAKHANWALA",
+        "MIX DAL FRY",
+        "CHAPATI",
+        "PLAIN RICE",
+        "TOMATO RASAM"
+    ]
+}
