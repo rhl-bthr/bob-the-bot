@@ -124,7 +124,7 @@ RP_CHOWKI = "<I don't have it. Sorry>"
 AK_CHOWKI = "<I don't have it. Sorry>"
 MB_CHOWKI = "<I don't have it. Sorry>"
 SR_CHOWKI = "7231066148"
-VK_CHOWKI = "<I don't have it. Sorry>"
+VK_CHOWKI = "9636507056"
 CVR_CHOWKI = "<I don't have it. Sorry>"
 MAL_CHOWKI = "8769366142"
 

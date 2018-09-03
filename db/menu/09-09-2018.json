@@ -3,27 +3,27 @@
         "CHOICE OF EGG",
         "CORNFLAKES",
         "BREAD +JAM",
-        "MASALA DOSA",
-        "SAMBAR",
+        "SAMBHAR",
+        "MASALA IDLI",
         "COCONUT CHUTNEY",
         "TEA+ COFFEE",
         "Milk"
     ],
     "lunch": [
         "ONION SALAD",
-        "PANEER LABABDAR",
-        "PLAIN NAAN",
-        "DUM  BIRYANI  RICE",
-        "BURANI RAITA",
+        "PAHARI  PANEER TIKKA  / MS",
+        "CHAPATI",
+        "BROWN ONION RICE",
+        "MINT RAITA",
         "BOONDI JALJEERA"
     ],
     "dinner": [
-        "MEXICAN SALAD",
-        "GREEN PEAS CURRY",
-        "DAL PUNCHRATNA",
+        "FINGER SALAD",
+        "TAWA SUBJI",
+        "MIRCHI KA SALAN",
         "CHAPATI",
-        "PLAIN RICE",
-        "GINGER RASAM",
+        "MASALA RICE",
+        "DAL Rasam",
         "GULAB JAMUN"
     ]
 }

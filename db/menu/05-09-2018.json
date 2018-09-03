@@ -1,0 +1,27 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "SEMIYA UPMA",
+        "ADRAK TOMATO CHUTNY",
+        "PINEAPPLE",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "KADHAI PANEER",
+        "MOONG  DAL TADKA",
+        "CHAPATI",
+        "ONION RICE",
+        "CUCUMBER RAITA"
+    ],
+    "dinner": [
+        "GREEN SALAD",
+        "CORN MASALA",
+        "DAHI ALOO",
+        "ARHAR DAL",
+        "CHAPATI",
+        "PLAIN RICE"
+    ]
+}

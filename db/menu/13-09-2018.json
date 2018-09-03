@@ -1,5 +1,6 @@
 {
     "breakfast": [
+        "CHOICE OF EGG",
         "CORNFLAKES",
         "BREAD +JAM",
         "VEG POHA",
@@ -10,20 +11,18 @@
         "Milk"
     ],
     "lunch": [
-        "GREEN SALAD",
-        "VEG KOFTA CURRY",
-        "CHAPATI",
-        "PLAIN RICE",
-        "KERLA SAMBAR",
-        "MANGO I/C"
+        "MASALA PAPAD",
+        "MIX DAL",
+        "M/S KHICHDI & RICE",
+        "SHIKANJI"
     ],
     "dinner": [
-        "ONION +LEMON",
-        "KHATTA METHA KADU",
-        "CHHOLE AMRITSARI",
-        "PURI",
-        "JEERA  RICE",
-        "BOONDI RAITA",
-        "MOHAN THAL"
+        "GREEN SALAD",
+        "PINDI CHHOLE",
+        "TOMATO DAL",
+        "KHASTA PARATHA",
+        "PLAIN RICE",
+        "KERLA SAMBAR",
+        "CHOCO BURFI"
     ]
 }
