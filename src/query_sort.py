@@ -10,13 +10,13 @@ import datetime
 from api_functions import get_text, get_postback
 from spell_correct import correct
 
-with open("db/database.json") as f:
+with open("../db/database.json") as f:
     db = json.load(f)
 
-with open("db/mapping.json") as map_file:
+with open("../db/mapping.json") as map_file:
     mapping = json.load(map_file)
 
-with open('db/hello-sorry.json') as f:
+with open('../db/hello-sorry.json') as f:
     msgs = json.load(f)
     hello_msgs = msgs["hello"]
     sorry_msgs = msgs["sorry"]
@@ -57,7 +57,10 @@ def sort_query(msg_text, sender_id):
 
     for meal in ["lunch", "dinner", "breakfast"]:
         if meal in msg_list:
-            message_pack = get_text(get_meal(meal))
+            if 'tomorrow' in msg_list:
+                message_pack = get_text(get_meal(meal,tomorrow=True))
+            else:
+                message_pack = get_text(get_meal(meal))
 
     if not message_pack:
         message_pack = sort(msg_list)
@@ -109,7 +112,7 @@ def pack_details(datas, recipient_id):
 
     return datas
 
-
+'''
 def get_name(sender_id):
     """ Get user's name, if nothing is found, return empty string. """
 
@@ -121,7 +124,9 @@ def get_name(sender_id):
         return json.loads(r.text)["first_name"]
     else:
         return ''
-
+'''
+def get_name(sender_id):
+    return 'Manan'
 
 def clean_text(text):
     text = text.lower()
@@ -156,25 +161,33 @@ def say_sorry():
     return get_text(random.choice(sorry_msgs))
 
 
-def get_meal(mealtype):
+def get_meal(mealtype,tomorrow=False):
     """ Get today's meal. mealtype: breakfast / lunch / dinner. """
     now = datetime.datetime.now(
         pytz.timezone(
             'Asia/Kolkata')).date(
-    ).strftime(
+    )
+    if tomorrow:
+        now += datetime.timedelta(days=1)
+    now = now.strftime(
                 '%d-%m-%Y')
 
     if now != MESS['date']:
         try:
-            with open('db/menu/' + now + ".json") as json_data:
+            with open('../db/menu/' + now + ".json") as json_data:
                 today = json.load(json_data)
         except:
             return "<Sorry, Menu will be updated by tonight>"
 
         MESS['date'] = now
-        MESS["lunch"] = "Today's lunch:\n" + "\n".join(today["lunch"])
-        MESS["breakfast"] = "Today's breakfast:\n" + \
+
+        prefix = 'today\'s'
+        if tomorrow:
+            prefix = 'tomorrow\'s'
+
+        MESS["lunch"] = f"{prefix} lunch:\n" + "\n".join(today["lunch"])
+        MESS["breakfast"] = f"{prefix} breakfast:\n" + \
             "\n".join(today["breakfast"])
-        MESS["dinner"] = "Today's dinner:\n" + "\n".join(today["dinner"])
+        MESS["dinner"] = f"{prefix} dinner:\n" + "\n".join(today["dinner"])
 
     return MESS[mealtype]
