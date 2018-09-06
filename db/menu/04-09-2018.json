@@ -1,0 +1,27 @@
+{
+    "breakfast": [
+        "NO EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "MISSAL",
+        "PAV",
+        "LEMON+ONION",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "FINGER SALAD",
+        "CABBAGE MUTTER",
+        "DAL FRY",
+        "PLAIN RICE",
+        "SAMBHAR",
+        "COLD CHOCO MILK"
+    ],
+    "dinner": [
+        "PAPRI CHAAT",
+        "DRY PUMPKIN",
+        "CHHOLE AMRITSARI",
+        "BHATUREY",
+        "JEERA  RICE"
+    ]
+}

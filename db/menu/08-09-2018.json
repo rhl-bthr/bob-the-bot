@@ -1,0 +1,29 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "BESAN CHILLA",
+        "GREEN CHUTNY",
+        "PAPYA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "HARA BHARA KABAB",
+        "RAGDA MUTTER",
+        "CURD / BUTTER",
+        "M/S KULCHA",
+        "TAMRIND RICE",
+        "GREEN CHILLI FRY",
+        "SWEET LASSI"
+    ],
+    "dinner": [
+        "CUCUMBER TOMATO",
+        "BHINDI DO PIYAZA",
+        "LOBIYA MASALA",
+        "CHAPATI",
+        "PLAIN RICE",
+        "RASAM"
+    ]
+}
