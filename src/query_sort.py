@@ -57,10 +57,7 @@ def sort_query(msg_text, sender_id):
 
     for meal in ["lunch", "dinner", "breakfast"]:
         if meal in msg_list:
-            if 'tomorrow' in msg_list:
-                message_pack = get_text(get_meal(meal,tomorrow=True))
-            else:
-                message_pack = get_text(get_meal(meal))
+            message_pack = get_text(get_meal(meal))
 
     if not message_pack:
         message_pack = sort(msg_list)
@@ -125,6 +122,7 @@ def get_name(sender_id):
     else:
         return ''
 
+
 def clean_text(text):
     text = text.lower()
     text = text.replace("'s", '')
@@ -158,33 +156,25 @@ def say_sorry():
     return get_text(random.choice(sorry_msgs))
 
 
-def get_meal(mealtype,tomorrow=False):
+def get_meal(mealtype):
     """ Get today's meal. mealtype: breakfast / lunch / dinner. """
     now = datetime.datetime.now(
         pytz.timezone(
             'Asia/Kolkata')).date(
-    )
-    if tomorrow:
-        now += datetime.timedelta(days=1)
-    now = now.strftime(
+    ).strftime(
                 '%d-%m-%Y')
 
     if now != MESS['date']:
         try:
-            with open('../db/menu/' + now + ".json") as json_data:
+            with open('db/menu/' + now + ".json") as json_data:
                 today = json.load(json_data)
         except:
             return "<Sorry, Menu will be updated by tonight>"
 
         MESS['date'] = now
-
-        prefix = 'today\'s'
-        if tomorrow:
-            prefix = 'tomorrow\'s'
-
-        MESS["lunch"] = f"{prefix} lunch:\n" + "\n".join(today["lunch"])
-        MESS["breakfast"] = f"{prefix} breakfast:\n" + \
+        MESS["lunch"] = "Today's lunch:\n" + "\n".join(today["lunch"])
+        MESS["breakfast"] = "Today's breakfast:\n" + \
             "\n".join(today["breakfast"])
-        MESS["dinner"] = f"{prefix} dinner:\n" + "\n".join(today["dinner"])
+        MESS["dinner"] = "Today's dinner:\n" + "\n".join(today["dinner"])
 
     return MESS[mealtype]
