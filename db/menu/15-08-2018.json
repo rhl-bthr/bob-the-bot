@@ -1,0 +1,31 @@
+{
+    "breakfast": [
+        "Eggs",
+        "Cereals",
+        "Bread+Jam",
+        "Indian Item",
+        "Accompaniments",
+        "Fruits",
+        "Beverages"
+    ],
+    "lunch": [
+        "Salad",
+        "Dry Veg",
+        "Veg Gravy",
+        "Dal / Pulses / Kadi",
+        "Breads",
+        "Rice",
+        "Curd / Sambar",
+        "Dessert / Drink"
+    ],
+    "dinner": [
+        "Salad",
+        "Dry Veg",
+        "Veg Gravy",
+        "Dal / Pulses / Kadi",
+        "Breads",
+        "Rice",
+        "Rasam",
+        "Dessert / Drink"
+    ]
+}
