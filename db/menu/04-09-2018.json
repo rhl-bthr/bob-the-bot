@@ -1,1 +1,27 @@
-{"breakfast": ["04-09"], "lunch": ["04-09"], "dinner": ["04-09"]}
+{
+    "breakfast": [
+        "NO EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "MISSAL",
+        "PAV",
+        "LEMON+ONION",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "FINGER SALAD",
+        "CABBAGE MUTTER",
+        "DAL FRY",
+        "PLAIN RICE",
+        "SAMBHAR",
+        "COLD CHOCO MILK"
+    ],
+    "dinner": [
+        "PAPRI CHAAT",
+        "DRY PUMPKIN",
+        "CHHOLE AMRITSARI",
+        "BHATUREY",
+        "JEERA  RICE"
+    ]
+}

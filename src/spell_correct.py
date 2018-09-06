@@ -7,8 +7,8 @@ Returns - list of corrected words.
 """
 
 
-dictionary = open('../db/dictionary.txt').read()
-common_dict = open('../db/commondict.txt').read()
+dictionary = open('db/dictionary.txt').read()
+common_dict = open('db/commondict.txt').read()
 WORDS = (dictionary + common_dict).split("\n")
 
 

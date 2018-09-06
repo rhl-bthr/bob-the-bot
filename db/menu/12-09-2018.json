@@ -1,1 +1,26 @@
-{"breakfast": ["12-09"], "lunch": ["12-09"], "dinner": ["12-09"]}
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "PESARATTU",
+        "COCONUT CHUTNY",
+        "WATER MELON",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "TADKA DAL",
+        "CHAPATI",
+        "ONION RICE",
+        "BEET ROOT RAITA",
+        "RASNA"
+    ],
+    "dinner": [
+        "KHIMCHI SALAD",
+        "CHILLI POTATO",
+        "CHAPATI",
+        "HONG  KONG FRIED  RICE",
+        "CUSTARD PAN CAKE"
+    ]
+}

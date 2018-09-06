@@ -1,1 +1,28 @@
-{"breakfast": ["07-09"], "lunch": ["07-09"], "dinner": ["07-09"]}
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "PUNUGULLU",
+        "CHILLI ONION CHUTNY",
+        "SWEET DALIYA",
+        "WATER MELLON",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "MACRONI SALAD",
+        "BAIGAN  BHAGARE",
+        "ZEERA  RICE",
+        "BURANI RAITA",
+        "MINT COOLER"
+    ],
+    "dinner": [
+        "GREEN SALAD",
+        "METHI MUTER MALAI",
+        "ALOO RAS WALE",
+        "CHAPATI",
+        "PLAIN RICE",
+        "SHREE KHAND"
+    ]
+}

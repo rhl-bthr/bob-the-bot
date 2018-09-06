@@ -1,1 +1,29 @@
-{"breakfast": ["02-09"], "lunch": ["02-09"], "dinner": ["02-09"]}
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "MASALA DOSA",
+        "PAPAYA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "ONION SALAD",
+        "PAHARI SPICY CHICKEN CHETTINAD",
+        "PANEER  PESHAWARI  MASALA",
+        "PLAIN NAAN",
+        "BIRYANI RICE",
+        "PINEPPLE RAITA",
+        "ROSE LEMONADE"
+    ],
+    "dinner": [
+        "PARMAL ALOO",
+        "GREEN PEAS  MASALA",
+        "MIX DAL TADKA",
+        "CHAPATI",
+        "PLAIN RICE",
+        "RASAM",
+        "SUJI PINEAPPLE HALWA"
+    ]
+}

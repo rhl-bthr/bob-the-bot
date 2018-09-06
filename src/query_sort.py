@@ -10,13 +10,13 @@ import datetime
 from api_functions import get_text, get_postback
 from spell_correct import correct
 
-with open("../db/database.json") as f:
+with open("db/database.json") as f:
     db = json.load(f)
 
-with open("../db/mapping.json") as map_file:
+with open("db/mapping.json") as map_file:
     mapping = json.load(map_file)
 
-with open('../db/hello-sorry.json') as f:
+with open('db/hello-sorry.json') as f:
     msgs = json.load(f)
     hello_msgs = msgs["hello"]
     sorry_msgs = msgs["sorry"]
@@ -112,7 +112,7 @@ def pack_details(datas, recipient_id):
 
     return datas
 
-'''
+
 def get_name(sender_id):
     """ Get user's name, if nothing is found, return empty string. """
 
@@ -124,9 +124,6 @@ def get_name(sender_id):
         return json.loads(r.text)["first_name"]
     else:
         return ''
-'''
-def get_name(sender_id):
-    return 'Manan'
 
 def clean_text(text):
     text = text.lower()
