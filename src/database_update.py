@@ -398,7 +398,7 @@ def update_dict():
 
 if __name__ == "__main__":
     with open('../db/database.json', 'w') as f:
-        json.dump(db, f, indent=4)
+        json.dump(db, f, indent=4, sort_keys=True)
     update_dict()
     with open('../db/hello-sorry.json', 'w') as f:
-        json.dump(hello_sorry, f, indent=4)
+        json.dump(hello_sorry, f, indent=4, sort_keys=True)
