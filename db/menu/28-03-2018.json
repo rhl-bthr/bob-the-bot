@@ -1,0 +1,32 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "MEDU   VADA",
+        "SAMBHAR +COCONUT CHUTNEY",
+        "SWEET DALIYA",
+        "PINEAPPLE",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "GREEN SALAD",
+        "PANEER LABABDAR",
+        "AARHAR DAL",
+        "CHAPATI",
+        "JEERA RICE",
+        "MIX VEG RAITA",
+        "SHIKANJI"
+    ],
+    "dinner": [
+        "GREEN SALAD",
+        "VEG 65",
+        "METHI MUTTER MALAI",
+        "CHANA DAL TADKA",
+        "CHAPATI",
+        "PLAIN  RICE",
+        "IMLI RASAM",
+        "FRUIT CUSTARD"
+    ]
+}

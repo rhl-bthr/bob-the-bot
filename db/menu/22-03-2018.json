@@ -1,0 +1,29 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "SEVIAN    UPMA",
+        "ADRAK  CHUTNEY",
+        "WATERMELON",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "CORN MINT TIKKI",
+        "BLACK CHANA  USSAL",
+        "CURD / BUTTER",
+        "ALOO PYAAZ PARATHA",
+        "TOMATO RICE",
+        "SAMBHAR",
+        "ROOH AFZA"
+    ],
+    "dinner": [
+        "GREEN SALAD",
+        "VEG PORIYAL",
+        "RAJMA MASALA",
+        "YELLOW DAL TADKA",
+        "CHAPATI",
+        "PLAIN RICE"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "CHILLI   IDLI",
+        "SAMBHAR",
+        "TOMATO  CHUTNEY",
+        "CUT APPLE",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "ONION SALAD",
+        "BUTTER  CHICKEN",
+        "BUTTER   PANEER",
+        "CHAPATI",
+        "DUM BIRYANI",
+        "ONION  RAITA",
+        "BOONDI JALJEERA"
+    ],
+    "dinner": [
+        "MACRONI SALAD",
+        "VEG  KORMA SOUTH INDIAN STYLE",
+        "ALOO  PALAK",
+        "CHAPATI",
+        "PLAIN RICE",
+        "RASAM",
+        "GULAB JAMUN"
+    ]
+}

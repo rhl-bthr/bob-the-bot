@@ -1,0 +1,27 @@
+{
+    "breakfast": [
+        "NO EGG",
+        "CORNFLAKES",
+        "BREAD + JAM",
+        "DAL PARANTHA",
+        "PLAIN CURD",
+        "BANANA",
+        "TEA +COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "GREEN SALAD",
+        "RAGDA  MUTTER",
+        "BUTTER / CURD",
+        "STUFF KULCHA",
+        "ONION RICE",
+        "CHOCO CHIP   I/C"
+    ],
+    "dinner": [
+        "ONION SALAD",
+        "CHOOLEY",
+        "BHATUREY",
+        "PLAIN RICE",
+        "RASAM"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "COLESLAW  S/W",
+        "TOMATO SAUCE",
+        "SWEET DALIYA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "TANDOORI SALAD",
+        "CABBAGE MUTTER",
+        "RAJMA RANGOLI",
+        "CHAPATI",
+        "PLAIN RICE",
+        "SAMBHAR",
+        "SHIKANJI"
+    ],
+    "dinner": [
+        "MANGODI PAPAD CURRY",
+        "DAHI ALOO",
+        "MOONG MASOOR DAL",
+        "CHAPATI",
+        "PLAIN RICE",
+        "DAL RASAM",
+        "SEVIAN KHEER"
+    ]
+}

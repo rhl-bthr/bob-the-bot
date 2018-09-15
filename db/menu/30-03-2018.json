@@ -1,0 +1,28 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "MASALA DOSA",
+        "BANANA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "ONION  SALAD",
+        "CHICKEN DO PIYAZA",
+        "PLAIN NAAN",
+        "DUM BIRYANI",
+        "PINEPPLE RAITA"
+    ],
+    "dinner": [
+        "KHEERA SALAD",
+        "PARMAL DO PIYAZA",
+        "MIRCHI KA SALAN",
+        "DAL MASALA",
+        "CHAPATI",
+        "PLAIN RICE",
+        "GINGER RASAM",
+        "RAS GULLA"
+    ]
+}

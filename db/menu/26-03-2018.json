@@ -1,0 +1,31 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "ONION UTTAPAM",
+        "SAMBHAR",
+        "COCONUT CHUTNEY",
+        "PAPAYA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "ONION  SALAD",
+        "MUTTER MUSHROOM",
+        "RAJMA RASILA",
+        "KHASTA PARATHA",
+        "ONION RICE",
+        "BOONDI RAITA",
+        "MINT COOLER"
+    ],
+    "dinner": [
+        "GREEN SALAD",
+        "CABBAGE MUTTER",
+        "VEG MAKHANWALA",
+        "CHAPATI",
+        "PLAIN RICE",
+        "RASAM",
+        "BESAN  BURFI"
+    ]
+}
