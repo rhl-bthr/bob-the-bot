@@ -14,4 +14,3 @@ Say `Hi` to get started!
 
 ## License
 * GNU GPL v3 © [Rahul Bothra](https://github.com/pro-panda)
-* MIT © [Divesh Uttamchandani](https://github.com/diveshuttam)
