@@ -1,0 +1,31 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "BREAD PAKORA",
+        "TOMATO SAUCE",
+        "SWEET DALIYA",
+        "PINEAPPLE",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "HUNGARIAN SALAD",
+        "TAWA SUBJI",
+        "TINDA DAHI WALA",
+        "DAL LASOONI",
+        "CHAPATI",
+        "PLAIN RICE",
+        "SAMBHAR",
+        "MASALA CHAACH"
+    ],
+    "dinner": [
+        "SWEET CORN SALAD",
+        "ALOO BEANS",
+        "SEV TOMATO",
+        "CHAPATI",
+        "JEERA RICE",
+        "DAL Rasam"
+    ]
+}

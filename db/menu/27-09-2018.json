@@ -1,0 +1,26 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "MISSAL",
+        "PAV",
+        "LEMON +ONION",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "RICE PAPAD",
+        "JEERA  ALOO",
+        "RAJASTHANI KADI",
+        "PLAIN RICE",
+        "GREEN CHILLI FRY",
+        "BUTTER SCOTCH   I/C"
+    ],
+    "dinner": [
+        "KHIMCHI SALAD",
+        "CHILLI POTATO",
+        "CHAPATI",
+        "HONG  KONG FRIED  RICE"
+    ]
+}

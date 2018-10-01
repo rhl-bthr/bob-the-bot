@@ -1,0 +1,29 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "VEG POHA",
+        "SEV",
+        "LEMON +ONION",
+        "CUT APPLE",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "PALAK ONION PAKORA",
+        "CAPSICUM CORN",
+        "VEG KOFTA CURRY",
+        "JEERA RICE",
+        "BEET ROOT RAITA",
+        "MIX BLAST"
+    ],
+    "dinner": [
+        "ONION SALAD",
+        "ZEERA ALOO",
+        "CHOLE AMRITSARI",
+        "CHAPPATI",
+        "LEMON RICE",
+        "CHILLI FRY"
+    ]
+}

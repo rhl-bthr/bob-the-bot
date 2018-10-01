@@ -6,12 +6,7 @@ Hi, I am BOB! I am a messenger chatbot designed for college students, and teache
 ## Link to BOB:
 https://m.me/ChatBotBOB
 
-Say `Hi` to get started!
-
-## How to Contribute:
- - Open an issue if you find any bug or have a feature request
- - Open a Pull Request if you'd like to implement any feature
-
-## License
-* GNU GPL v3 © [Rahul Bothra](https://github.com/pro-panda)
-* MIT © [Divesh Uttamchandani](https://github.com/diveshuttam)
+## Query examlpes:
+ 1. Contact Number of the Ram Hostel's warden 
+ 2. Medical Centre timings 
+ 3. Is Student welfare division open today ?
