@@ -1,0 +1,31 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "Coleslow Sandwich",
+        "Tomato Sauce",
+        "Dalia Meetha",
+        "CUT APPLE",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "Green Salad",
+        "Dum Aloo Kashmiri",
+        "Masala Dal",
+        "Plain Rice",
+        "Mysore Sambar",
+        "LEMON JUICE"
+    ],
+    "dinner": [
+        "GREEN SALAD",
+        "MIX VEG",
+        "VEG KOFTA CURRY",
+        "ARHAR DAL  FRY",
+        "CHAPATI",
+        "PLAIN RICE",
+        "TOMATO RASAM",
+        "RASGULLA"
+    ]
+}

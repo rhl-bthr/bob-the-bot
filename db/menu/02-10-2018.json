@@ -1,0 +1,28 @@
+{
+    "breakfast": [
+        "NO EGGS",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "Aloo Paratha",
+        "Curd",
+        "WATER MELON",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "MIRCHI PAKODA",
+        "SAHI PANEER",
+        "NAAN",
+        "VEG DUM BIRYANI",
+        "PINEAPPLE RAITA",
+        "COOKIE AND CREAM I/C"
+    ],
+    "dinner": [
+        "Lachha Onion+Lemon",
+        "CHOOLEY",
+        "BHATUREY",
+        "CHAPATI",
+        "JEERA RICE",
+        "RASAM"
+    ]
+}

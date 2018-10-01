@@ -1,0 +1,30 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "MASALA SANDWICH",
+        "SWEET DALIYA",
+        "WATER MELON",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "GREEN SALAD",
+        "TAWA SUBJI",
+        "Sev Tomato",
+        "Mixed Dal",
+        "Plain Rice",
+        "Kerala Sambar",
+        "STRAWBERRY LASSI"
+    ],
+    "dinner": [
+        "HUNGARIAN SALAD",
+        "Chana Dal Lauki",
+        "MIRCHI KA SALAN",
+        "CHAPATI",
+        "MASALA RICE",
+        "DAL Rasam",
+        "BESAN KI BARFI"
+    ]
+}

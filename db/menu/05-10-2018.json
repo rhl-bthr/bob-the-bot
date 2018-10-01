@@ -1,0 +1,30 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "CHILLI IDLI",
+        "SAMBHAR",
+        "COCONUT CHUTNEY",
+        "PINEAPPLE",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "MIX VEG",
+        "ALOO PALAK",
+        "Mix Dal",
+        "Plain Rice",
+        "Madrasi Sambar",
+        "SWEET LASSI"
+    ],
+    "dinner": [
+        "GREEN SALAD",
+        "CORN MASALA",
+        "DAHI ARBI",
+        "ARHAR DAL",
+        "CHAPATI",
+        "PLAIN RICE",
+        "DOUBLE KA MEETHA"
+    ]
+}

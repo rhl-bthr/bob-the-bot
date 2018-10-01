@@ -1,0 +1,29 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "MEDU VADA",
+        "Coconut Chetney",
+        "SAMBHAR",
+        "PINE APPLE",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "Veg Handi",
+        "CHU CHU BAINGAN",
+        "Mix Dal Fry",
+        "Plain Rice",
+        "Mysore Sambar",
+        "MASALA CHACH"
+    ],
+    "dinner": [
+        "KHIMCHI SALAD",
+        "CHILLI POTATO",
+        "SCHEZWAN SAUCE",
+        "CHAPATI",
+        "CHOW MEIN",
+        "FRUIT CUSTARD & PUDDING"
+    ]
+}

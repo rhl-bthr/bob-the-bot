@@ -1,0 +1,31 @@
+{
+    "breakfast": [
+        "NO EGGS",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "DAL PARTHA",
+        "ALOO RAS",
+        "CURD",
+        "CUT APPLE",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "ONION SALAD",
+        "KUNDRU DO PIYAZA",
+        "RAJMA RASHEELA",
+        "YELLOW DAL",
+        "CHAPATI",
+        "LEMON RICE",
+        "BOONDI RAITA",
+        "KHUS SHARBHAT"
+    ],
+    "dinner": [
+        "ONION SALAD",
+        "CHOLEY",
+        "BHATUREY",
+        "CHAPATI",
+        "PLAIN RICE",
+        "RASAM"
+    ]
+}
