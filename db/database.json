@@ -25,14 +25,7 @@
         ]
     },
     "arcd": {
-        "email": [
-            {
-                "message": {
-                    "text": "ARCD:\narcd@bits-pilani.ac.in"
-                }
-            }
-        ],
-        "location": [
+        "address": [
             {
                 "message": {
                     "attachment": {
@@ -42,6 +35,13 @@
                         },
                         "type": "image"
                     }
+                }
+            }
+        ],
+        "email": [
+            {
+                "message": {
+                    "text": "ARCD:\narcd@bits-pilani.ac.in"
                 }
             }
         ],
@@ -583,7 +583,7 @@
         }
     ],
     "ic": {
-        "location": [
+        "address": [
             {
                 "message": {
                     "attachment": {
@@ -1058,7 +1058,7 @@
         ]
     },
     "s9": {
-        "location": [
+        "address": [
             {
                 "message": {
                     "attachment": {
@@ -1228,14 +1228,7 @@
         ]
     },
     "swd": {
-        "email": [
-            {
-                "message": {
-                    "text": "SWD:\nswd@pilani.bits-pilani.ac.in"
-                }
-            }
-        ],
-        "location": [
+        "address": [
             {
                 "message": {
                     "attachment": {
@@ -1245,6 +1238,13 @@
                         },
                         "type": "image"
                     }
+                }
+            }
+        ],
+        "email": [
+            {
+                "message": {
+                    "text": "SWD:\nswd@pilani.bits-pilani.ac.in"
                 }
             }
         ],

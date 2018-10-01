@@ -199,13 +199,13 @@ db = {
         "timings": get_text(SWD_TIME, "SWD"),
         "number": get_text(SWD_NUM, "SWD"),
         "email": get_text(SWD_EMAIL, "SWD"),
-        "location": get_file(DIVISIONS_MAP, "image")
+        "address": get_file(DIVISIONS_MAP, "image")
     },
     "arcd": {
         "timings": get_text(ARCD_TIME, "ARCD"),
         "number": get_text(BK_ROUT_NUM, "BK Rout Assoc Dean"),
         "email": get_text(ARCD_EMAIL, "ARCD"),
-        "location": get_file(DIVISIONS_MAP, "image")
+        "address": get_file(DIVISIONS_MAP, "image")
     },
     "pizzeria": {
         "timings": get_text(PIZZ_TIME, "Pizzeria"),
@@ -215,12 +215,12 @@ db = {
     },
     "ic": {
         "timings": get_text(IC_TIME, "IC"),
-        "location": get_file(DIVISIONS_MAP, "image")
+        "address": get_file(DIVISIONS_MAP, "image")
     },
     "s9": {
         "timings": get_text(S9_TIME, "S9"),
         "number": get_text(S9_NUM, "S9"),
-        "location": get_file(DIVISIONS_MAP, "image")
+        "address": get_file(DIVISIONS_MAP, "image")
     },
     "skylabs": {
         "timings": get_text(SKY_TIME, "Skylabs"),
