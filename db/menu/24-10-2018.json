@@ -1,0 +1,27 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "CHILLI IDLI",
+        "SAMBHAR",
+        "COCONUT CHUTNEY",
+        "BANANA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "ONION SALAD",
+        "CHAPATI",
+        "ONION RICE",
+        "MINT RAITA",
+        "KHUS SHERBET"
+    ],
+    "dinner": [
+        "DUM ALOO",
+        "DAL TADKA",
+        "CHAPATI",
+        "JEERA RICE",
+        "LEMON CORIANDER RASAM"
+    ]
+}

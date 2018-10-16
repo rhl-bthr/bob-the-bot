@@ -3,24 +3,26 @@
         "CHOICE OF EGG",
         "CORNFLAKES",
         "BREAD +JAM",
-        "MISSAL",
-        "PAV",
-        "LEMON +ONION",
+        "BESAN CHILLA",
+        "GREEN CHUTNEY",
+        "PINEAPPLE",
         "TEA+ COFFEE",
         "Milk"
     ],
     "lunch": [
         "RICE PAPAD",
-        "JEERA  ALOO",
+        "MADRASI ALOO",
         "RAJASTHANI KADI",
         "PLAIN RICE",
-        "GREEN CHILLI FRY",
-        "BUTTER SCOTCH   I/C"
+        "CHAPATI",
+        "MASALA   VEG  KHICHDI",
+        "GREEN CHILLI FRY"
     ],
     "dinner": [
-        "KHIMCHI SALAD",
-        "CHILLI POTATO",
+        "CORN MASALA",
+        "DAL MAKHANI",
         "CHAPATI",
-        "HONG  KONG FRIED  RICE"
+        "THAKKALI RASAM",
+        "GULAB JAMUN"
     ]
 }

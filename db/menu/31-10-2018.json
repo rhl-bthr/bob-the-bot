@@ -1,0 +1,29 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "SEVIAN UPMA",
+        "ORANGE",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "GREEN SALAD",
+        "PALAK PANEER",
+        "ONION RICE",
+        "CHAPATI",
+        "ONION RAITA",
+        "SHIKANJI"
+    ],
+    "dinner": [
+        "ONION SALAD",
+        "GAJAR MUTTER",
+        "GUTTA CURRY",
+        "DAL DHABHA",
+        "CHAPATI",
+        "PLAIN RICE",
+        "TOMARIND RASAM",
+        "MOONG DAL HALWA"
+    ]
+}

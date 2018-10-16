@@ -3,25 +3,28 @@
         "NO EGG",
         "CORNFLAKES",
         "BREAD +JAM",
-        "ALOO PARANTHA",
-        "PLAIN CURD",
+        "PAO",
+        "BHAJI",
+        "LEMON+ONION",
         "WATERMELON",
         "TEA+ COFFEE",
         "Milk"
     ],
     "lunch": [
-        "GREEN SALAD",
-        "METHI MUTTER MALAI",
+        "RAW BANANA SABJI",
+        "PALAK KOFTA CURRY",
+        "MA CHOOLEY KI DAL",
         "CHAPATI",
         "PLAIN RICE",
-        "SAMBHAR",
+        "VARIUTHARACHA SAMBAR",
         "COLD CHOCO MILK"
     ],
     "dinner": [
         "ONION +LEMON",
-        "DRY PUMPKIN",
         "CHHOLE AMRITSARI",
-        "BHATUREY",
-        "JEERA  RICE"
+        "DAL FRY",
+        "BHATUREY/CHAPATI",
+        "JEERA RICE",
+        "COCONUT BURFI"
     ]
 }

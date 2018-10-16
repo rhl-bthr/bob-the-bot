@@ -1,0 +1,28 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "COLESLOW  S/W",
+        "TOMATO SAUCE",
+        "SWEET DALIYA",
+        "CUT APPLE",
+        "TEA +COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "ALOO CAPSICUM",
+        "SOYA  MUTTER",
+        "CHAPATI",
+        "MASALA RICE",
+        "MASALA CHACCH"
+    ],
+    "dinner": [
+        "GREEN SALAD",
+        "VEG CHILLI MILLI",
+        "RAJMA MASALA",
+        "MIX DAL",
+        "CHAPATI",
+        "LEMON  RICE"
+    ]
+}

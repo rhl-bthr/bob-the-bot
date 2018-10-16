@@ -1,0 +1,28 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "BREAD PAKORA",
+        "GREEN  CHUTNEY",
+        "SWEET DALIYA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "FINGER CHIPS",
+        "GREEN DRY  MUTTER",
+        "CURD/BUTTER",
+        "ALOO ONION  PARANTHA",
+        "PLAIN RICE",
+        "RED AMARANTH SAMBAR"
+    ],
+    "dinner": [
+        "KHIMCHI SALAD",
+        "CHILLI POTATO",
+        "VEG HAKKA NOODLE",
+        "CHAPATI",
+        "PLAIN RICE",
+        "DOUBLE KA MEETHA"
+    ]
+}

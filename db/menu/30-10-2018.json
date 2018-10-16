@@ -1,0 +1,26 @@
+{
+    "breakfast": [
+        "NO EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "MISSAL PAV",
+        "ONION+LEMON",
+        "WATERMELON",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "GOBHI MUTTER",
+        "VEG KOFTA CURRY",
+        "DAL MAKHANI",
+        "CHAPATI",
+        "KERALA SAMBAR"
+    ],
+    "dinner": [
+        "CORN CHAAT",
+        "CHOLEY AMRITSARI",
+        "BLACK MASOOR DAL",
+        "PLAIN RICE",
+        "CHILLI FRY"
+    ]
+}
