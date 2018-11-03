@@ -1,0 +1,30 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "Aloo Parantha",
+        "CURD",
+        "TOMATO SAUCE",
+        "CUT APPLE",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "FINGER SALAD",
+        "DAL TADKA",
+        "CHAPATI",
+        "JEERA RICE",
+        "UDUPI SAMBAR",
+        "PINEAPPLE RAITA"
+    ],
+    "dinner": [
+        "ALOO PARWAL FRY",
+        "PALAK CORN",
+        "MIX DAL",
+        "CHAPATI",
+        "PLAIN RICE",
+        "KERALA RASAM",
+        "MANCHOU SOUP"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "MASALA IDLI",
+        "TIFFIN SAMBAR",
+        "COCONUT CHUTNEY",
+        "BANANA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "RICE PAPAD",
+        "KADI PAKODA",
+        "VEG KHICHDI",
+        "CHAPATI",
+        "CHILLY FRY",
+        "SAMBAR",
+        "SHIKANJI"
+    ],
+    "dinner": [
+        "GREEN SALAD",
+        "VEG 65",
+        "DAL MAKHANI",
+        "CHAPATI",
+        "PLAIN RICE",
+        "KALI MIRI RASAM",
+        "BESAN BURFI"
+    ]
+}

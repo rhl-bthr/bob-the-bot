@@ -1,0 +1,28 @@
+{
+    "breakfast": [
+        "NO EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "PUNUGULU",
+        "TOMATO CHUTNEY",
+        "SWEET DALIYA",
+        "HONEY DEW",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "GREEN SALAD",
+        "ALOO BEANS PORIYAL",
+        "BLACK CHANA M/S",
+        "TOMATO DAL",
+        "SAMBHAR"
+    ],
+    "dinner": [
+        "ONION +LEMON",
+        "PUNJABI CHOLE",
+        "DAL FRY",
+        "BHATUREY/CHAPATI",
+        "PLAIN RICE",
+        "TOMATO SOUP"
+    ]
+}

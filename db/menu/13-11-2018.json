@@ -1,0 +1,29 @@
+{
+    "breakfast": [
+        "NO EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "MISSAL",
+        "PAV",
+        "ONION+LEMON",
+        "BANANA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "FINGER SALAD",
+        "SABJI CHILLI MILLI",
+        "VEG MAKHANWALA",
+        "PANCHMEL DAL",
+        "TOMATO SAMBAR",
+        "SWEET LASSI"
+    ],
+    "dinner": [
+        "ONION +LEMON",
+        "PINDI CHHOLE",
+        "YELLOW DAL",
+        "BHATUREY/CHAPATI",
+        "PLAIN RICE",
+        "VEG CLEAR SOUP"
+    ]
+}

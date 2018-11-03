@@ -1,0 +1,30 @@
+{
+    "breakfast": [
+        "CHOICE OF EGG",
+        "CORNFLAKES",
+        "BREAD +JAM",
+        "POORI",
+        "ONION+LEMON",
+        "BANANA",
+        "TEA+ COFFEE",
+        "Milk"
+    ],
+    "lunch": [
+        "RICE PAPAD",
+        "PYAZA KADI",
+        "DAL KHICHDI",
+        "CHAPATI",
+        "CHILLY FRY",
+        "MULLANGI SAMBAR",
+        "BOONDI JALJEERA"
+    ],
+    "dinner": [
+        "MEXICAN",
+        "CABBAGE MOONG DRY",
+        "SAHI GOBHI",
+        "DAL PALAK",
+        "CHAPATI",
+        "PLAIN RICE",
+        "MYSORE RASAM"
+    ]
+}
