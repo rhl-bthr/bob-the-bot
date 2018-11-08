@@ -58,7 +58,7 @@ def sort_query(msg_text, sender_id):
     for meal in ["lunch", "dinner", "breakfast"]:
         if meal in msg_list:
             if 'tomorrow' in msg_list:
-                message_pack = get_text(get_meal(meal,tomorrow=True))
+                message_pack = get_text(get_meal(meal, tomorrow=True))
             else:
                 message_pack = get_text(get_meal(meal))
 
@@ -125,6 +125,7 @@ def get_name(sender_id):
     else:
         return ''
 
+
 def clean_text(text):
     text = text.lower()
     text = text.replace("'s", '')
@@ -158,7 +159,7 @@ def say_sorry():
     return get_text(random.choice(sorry_msgs))
 
 
-def get_meal(mealtype,tomorrow=False):
+def get_meal(mealtype, tomorrow=False):
     """ Get today's meal. mealtype: breakfast / lunch / dinner. """
     now = datetime.datetime.now(
         pytz.timezone(

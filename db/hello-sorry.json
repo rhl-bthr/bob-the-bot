@@ -1,4 +1,54 @@
 {
+    "hello": [
+        [
+            "Hey, <USERNAME>\nI'm BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Hey, <USERNAME>\nIt's me, BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Hey, <USERNAME>\nMy name is BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Hi, <USERNAME>\nI'm BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Hi, <USERNAME>\nIt's me, BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Hi, <USERNAME>\nMy name is BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Whassup <USERNAME>\nI'm BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Whassup <USERNAME>\nIt's me, BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Whassup <USERNAME>\nMy name is BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Yo <USERNAME>\nI'm BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Yo <USERNAME>\nIt's me, BOB! :D",
+            "Type 'help' to see the query guide."
+        ],
+        [
+            "Yo <USERNAME>\nMy name is BOB! :D",
+            "Type 'help' to see the query guide."
+        ]
+    ],
     "sorry": [
         [
             "Sorry, Dunno what you asked for :(",
@@ -127,56 +177,6 @@
         [
             "Whoops, I have failed you :(",
             "Need help? type help"
-        ]
-    ],
-    "hello": [
-        [
-            "Hey, <USERNAME>\nI'm BOB! :D",
-            "Type 'help' to see the query guide."
-        ],
-        [
-            "Hey, <USERNAME>\nIt's me, BOB! :D",
-            "Type 'help' to see the query guide."
-        ],
-        [
-            "Hey, <USERNAME>\nMy name is BOB! :D",
-            "Type 'help' to see the query guide."
-        ],
-        [
-            "Hi, <USERNAME>\nI'm BOB! :D",
-            "Type 'help' to see the query guide."
-        ],
-        [
-            "Hi, <USERNAME>\nIt's me, BOB! :D",
-            "Type 'help' to see the query guide."
-        ],
-        [
-            "Hi, <USERNAME>\nMy name is BOB! :D",
-            "Type 'help' to see the query guide."
-        ],
-        [
-            "Whassup <USERNAME>\nI'm BOB! :D",
-            "Type 'help' to see the query guide."
-        ],
-        [
-            "Whassup <USERNAME>\nIt's me, BOB! :D",
-            "Type 'help' to see the query guide."
-        ],
-        [
-            "Whassup <USERNAME>\nMy name is BOB! :D",
-            "Type 'help' to see the query guide."
-        ],
-        [
-            "Yo <USERNAME>\nI'm BOB! :D",
-            "Type 'help' to see the query guide."
-        ],
-        [
-            "Yo <USERNAME>\nIt's me, BOB! :D",
-            "Type 'help' to see the query guide."
-        ],
-        [
-            "Yo <USERNAME>\nMy name is BOB! :D",
-            "Type 'help' to see the query guide."
         ]
     ]
 }
