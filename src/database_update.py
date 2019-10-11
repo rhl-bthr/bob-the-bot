@@ -27,6 +27,7 @@ MIDSEM_DATES = BOB_FILES + "midsem_dates.pdf"
 MAP = BOB_FILES + "map.jpg"
 DELHIBUS = BOB_FILES + "delhibus.jpg"
 MEDC = BOB_FILES + "medc.jpg"
+DIVISIONS_MAP = BOB_FILES + "map_divs.jpg"
 
 
 SWD_TIME = "Weekdays: 9 AM - 5 PM\nSaturday: 9 AM - 2 PM\nClosed on Sunday."
@@ -197,12 +198,14 @@ db = {
     "swd": {
         "timings": get_text(SWD_TIME, "SWD"),
         "number": get_text(SWD_NUM, "SWD"),
-        "email": get_text(SWD_EMAIL, "SWD")
+        "email": get_text(SWD_EMAIL, "SWD"),
+        "address": get_file(DIVISIONS_MAP, "image")
     },
     "arcd": {
         "timings": get_text(ARCD_TIME, "ARCD"),
         "number": get_text(BK_ROUT_NUM, "BK Rout Assoc Dean"),
-        "email": get_text(ARCD_EMAIL, "ARCD")
+        "email": get_text(ARCD_EMAIL, "ARCD"),
+        "address": get_file(DIVISIONS_MAP, "image")
     },
     "pizzeria": {
         "timings": get_text(PIZZ_TIME, "Pizzeria"),
@@ -211,11 +214,13 @@ db = {
         "address": get_text(PIZZ_ADD, "Pizzeria")
     },
     "ic": {
-        "timings": get_text(IC_TIME, "IC")
+        "timings": get_text(IC_TIME, "IC"),
+        "address": get_file(DIVISIONS_MAP, "image")
     },
     "s9": {
         "timings": get_text(S9_TIME, "S9"),
-        "number": get_text(S9_NUM, "S9")
+        "number": get_text(S9_NUM, "S9"),
+        "address": get_file(DIVISIONS_MAP, "image")
     },
     "skylabs": {
         "timings": get_text(SKY_TIME, "Skylabs"),
@@ -266,7 +271,7 @@ db = {
     "nobles": {
         "number": get_text(NOBLES_NUM, "Nobles")
     },
-    "dezire": get_text("Dezire address:\n172.17.32.87"),
+    "dezire": get_text("Dezire address:\n172.17.2.11"),
     "laundromat": get_text(LAUNDRO_TIME, "Laundromat Timings"),
     "twelve": {
         "timings": get_text(TWELVE_TIME, "Twelve Tables"),
