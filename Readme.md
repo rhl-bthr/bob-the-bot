@@ -1,9 +1,14 @@
 ## B.O.B.
-B.O.B. is an ancronym for "Bot of BITS". It is meant to help BITSian residents get access to trivial information instantly.
+Bot of BITS (acronymed B.O.B.) is a chatbot server to help BITSians get faster access to trivial information.
+It is hosted on a heroku server and connected to a [Facebook Page](https://www.facebook.com/ChatbotBOB/).
 
-It is hosted on a heroku server and connected to a [Facebook Page](https://www.facebook.com/ChatbotBOB/), to act as a chatbot.
+Note: It was originally available on https://m.me/ChatBotBOB but is currently down.
 
-## Link to BOB:
-https://m.me/ChatBotBOB
 
-Say `Hi` to get started!
+## Authors 
+1. [Rahul Bothra](https://github.com/pro-panda)
+2. [Sankalp Sangle](https://github.com/sankalp-sangle)
+
+## Recent contributors
+1. [Manan Soni](https://github.com/manansoni42)
+2. [Chinmay Hebbar](https://github.com/cheese-cracker)
